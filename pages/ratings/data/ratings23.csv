@@ -1,0 +1,905 @@
+Player,Age,Position,Team,Raw,Overall,Potential,Long Term Overall,Hot Index
+Alexandre Carrier,26.4,D,Nashville Predators,0.3614007532596588,76,78,75,-1
+Cody Glass,24.0,C,Nashville Predators,0.5003357529640198,78,79,78,0
+Cole Smith,27.4,L,Nashville Predators,0.1229359348212537,72,74,72,0
+Colton Sissons,29.4,C,Nashville Predators,0.296994537115097,75,77,74,-1
+Dante Fabbro,24.8,D,Nashville Predators,0.2488342821598053,74,77,72,-2
+Eeli Tolvanen,23.9,R,Seattle Kraken,0.4986745417118072,78,78,79,1
+Filip Forsberg,28.5,L,Nashville Predators,0.9745259284973145,85,88,84,-1
+Kiefer Sherwood,28.0,L,Nashville Predators,0.3241698443889618,75,76,76,1
+Mark Borowiecki,33.3,D,Nashville Predators,0.1184158250689506,72,73,72,0
+Matt Duchene,32.2,C,Nashville Predators,0.7608368396759033,81,84,80,-1
+Mattias Ekholm,32.8,D,Edmonton Oilers,0.6243475675582886,80,81,82,2
+Mikael Granlund,31.1,C,Pittsburgh Penguins,0.4754280745983124,77,81,77,0
+Nino Niederreiter,30.6,R,Winnipeg Jets,0.706946849822998,81,84,79,-2
+Roman Josi,32.8,D,Nashville Predators,0.9514853954315186,84,86,83,-1
+Ryan Johansen,30.6,C,Nashville Predators,0.5297611951828003,78,81,76,-2
+Ryan McDonagh,33.8,D,Nashville Predators,0.3139477670192718,75,80,74,-1
+Tanner Jeannot,25.8,L,Tampa Bay Lightning,0.3266542553901672,75,78,73,-2
+Yakov Trenin,26.2,C,Nashville Predators,0.2923553884029388,75,76,73,-2
+Erik Karlsson,32.8,D,San Jose Sharks,0.8584184646606445,83,83,83,0
+Jonah Gadjovich,24.4,L,San Jose Sharks,0.1626933724717368,73,73,73,0
+Kevin Labanc,27.3,R,San Jose Sharks,0.497738242149353,78,78,76,-2
+Logan Couture,34.0,C,San Jose Sharks,0.7245542407035828,81,83,83,2
+Luke Kunin,25.0,C,San Jose Sharks,0.2414986044168472,74,76,74,0
+Marc-Edouard Vlasic,36.0,D,San Jose Sharks,0.1711505651473999,73,79,74,1
+Mario Ferraro,24.5,D,San Jose Sharks,0.0443501137197017,71,73,71,0
+Matt Nieto,30.4,L,Colorado Avalanche,0.2366584688425064,74,75,75,1
+Matthew Benning,28.8,D,San Jose Sharks,0.2644984424114227,74,76,74,0
+Nick Bonino,34.9,C,Pittsburgh Penguins,0.3752248287200928,76,78,77,1
+Nico Sturm,27.9,C,San Jose Sharks,0.3357535898685455,75,77,74,-1
+Noah Gregor,24.7,C,San Jose Sharks,0.0466315038502216,71,72,71,0
+Oskar Lindblom,26.6,L,San Jose Sharks,0.1241422370076179,72,76,71,-1
+Radim Simek,30.5,D,San Jose Sharks,0.0449466221034526,71,74,71,0
+Scott Harrington,30.0,D,Anaheim Ducks,0.0580514669418334,72,73,70,-2
+Steven Lorentz,27.0,C,San Jose Sharks,0.1739119589328766,73,75,72,-1
+Timo Meier,26.5,R,New Jersey Devils,0.882368803024292,83,84,84,1
+Tomas Hertl,29.4,C,San Jose Sharks,0.7507777810096741,81,85,78,-3
+Evgeny Svechnikov,26.4,L,San Jose Sharks,0.2193143516778946,74,75,74,0
+Jaycob Megna,30.3,D,Seattle Kraken,0.3411995768547058,76,76,77,1
+Jeremy Lauzon,25.9,D,Nashville Predators,-0.032765582203865,70,73,70,0
+Adam Fox,25.1,D,New York Rangers,1.0090781450271606,85,87,83,-2
+Alexis Lafreniere,21.5,L,New York Rangers,0.2824100255966186,75,77,74,-1
+Artemi Panarin,31.4,L,New York Rangers,0.9995637536048888,85,86,84,-1
+Barclay Goodrow,30.1,C,New York Rangers,0.2713084816932678,75,76,73,-2
+Braden Schneider,21.5,D,New York Rangers,0.0757333636283874,72,73,70,-2
+Chris Kreider,31.9,L,New York Rangers,0.93832665681839,84,84,84,0
+Filip Chytil,23.6,C,New York Rangers,0.4122294187545776,77,78,77,0
+Jacob Trouba,29.1,D,New York Rangers,0.3132171630859375,75,78,76,1
+Jimmy Vesey,29.8,L,New York Rangers,0.3110389709472656,75,76,77,2
+K'Andre Miller,23.2,D,New York Rangers,0.257849782705307,74,75,76,2
+Kaapo Kakko,22.1,R,New York Rangers,0.3645691275596618,76,79,76,0
+Mika Zibanejad,29.9,C,New York Rangers,1.0345786809921265,85,86,85,0
+Ryan Carpenter,32.1,C,New York Rangers,0.1278631091117859,73,74,72,-1
+Ryan Lindgren,25.1,D,New York Rangers,0.4949231743812561,78,79,79,1
+Ryan Reaves,36.2,R,Minnesota Wild,0.1267656683921814,73,73,75,2
+Vincent Trocheck,29.7,C,New York Rangers,0.7875915169715881,82,83,83,1
+Vitali Kravtsov,23.3,R,Vancouver Canucks,0.081410710516767,72,73,72,0
+Zac Jones,22.1,D,New York Rangers,-0.1282739837338954,69,70,69,0
+Alex Killorn,33.5,L,Tampa Bay Lightning,0.6776151061058044,80,82,80,0
+Brandon Hagel,24.6,L,Tampa Bay Lightning,0.6586258411407471,80,80,82,2
+Brayden Point,27.0,C,Tampa Bay Lightning,1.0957984924316406,86,88,87,1
+Cal Foote,24.3,D,Nashville Predators,0.1924310773611068,73,75,72,-1
+Cole Koepke,24.6,L,Tampa Bay Lightning,-0.017853247228893,70,71,70,0
+Corey Perry,37.9,R,Tampa Bay Lightning,0.5320541858673096,78,83,76,-2
+Erik Cernak,25.8,D,Tampa Bay Lightning,0.3616029918193817,76,79,75,-1
+Haydn Fleury,26.7,D,Tampa Bay Lightning,0.1559244394302368,73,76,72,-1
+Mikhail Sergachev,24.8,D,Tampa Bay Lightning,0.7945139408111572,82,85,83,1
+Nick Paul,28.0,L,Tampa Bay Lightning,0.3795236647129059,76,76,77,1
+Nikita Kucherov,29.8,R,Tampa Bay Lightning,1.2936581373214722,89,91,88,-1
+Pat Maroon,34.9,L,Tampa Bay Lightning,0.2646419703960418,74,78,72,-2
+Philippe Myers,25.8,D,Tampa Bay Lightning,0.2259157449007034,74,74,75,1
+Pierre-Edouard Bellemare,38.1,L,Tampa Bay Lightning,0.3190699815750122,75,77,73,-2
+Ross Colton,26.5,C,Tampa Bay Lightning,0.4912410974502563,78,79,77,-1
+Steven Stamkos,33.1,C,Tampa Bay Lightning,1.0787800550460815,86,90,82,-4
+Victor Hedman,32.3,D,Tampa Bay Lightning,0.8910897374153137,83,86,79,-4
+Vladislav Namestnikov,30.3,C,Winnipeg Jets,0.3768151104450226,76,78,77,1
+Adrian Kempe,26.5,R,Los Angeles Kings,0.6399115324020386,80,80,85,5
+Alex Iafallo,29.3,L,Los Angeles Kings,0.6027111411094666,79,79,81,2
+Alexander Edler,36.9,D,Los Angeles Kings,0.2993527352809906,75,78,77,2
+Anze Kopitar,35.6,C,Los Angeles Kings,0.8789368271827698,83,85,88,5
+Arthur Kaliyev,21.7,R,Los Angeles Kings,0.5237270593643188,78,81,78,0
+Blake Lizotte,25.3,C,Los Angeles Kings,0.5310696959495544,78,78,80,2
+Carl Grundstrom,25.3,R,Los Angeles Kings,0.2847584784030914,75,75,78,3
+Drew Doughty,33.3,D,Los Angeles Kings,0.6548759341239929,80,82,80,0
+Gabriel Vilardi,23.6,R,Los Angeles Kings,0.7062631845474243,81,81,84,3
+Kevin Fiala,26.6,L,Los Angeles Kings,0.9803810715675354,85,85,85,0
+Matt Roy,28.1,D,Los Angeles Kings,0.5563446283340454,79,79,83,4
+Mikey Anderson,23.8,D,Los Angeles Kings,0.3244758248329162,75,75,76,1
+Phillip Danault,30.1,C,Los Angeles Kings,0.7062235474586487,81,83,79,-2
+Quinton Byfield,20.6,C,Los Angeles Kings,0.4820956587791443,78,79,80,2
+Sean Durzi,24.4,D,Los Angeles Kings,0.4773841500282287,77,78,78,1
+Sean Walker,28.4,D,Los Angeles Kings,0.2391900867223739,74,75,76,2
+Trevor Moore,28.0,L,Los Angeles Kings,0.5807294249534607,79,80,78,-1
+Viktor Arvidsson,30.0,R,Los Angeles Kings,0.7407236099243164,81,83,81,0
+Alec Martinez,35.7,D,Vegas Golden Knights,0.4105149209499359,77,80,74,-3
+Alex Pietrangelo,33.2,D,Vegas Golden Knights,0.7127788662910461,81,83,79,-2
+Ben Hutton,29.8,D,Vegas Golden Knights,0.2477256804704666,74,74,76,2
+Brayden McNabb,32.2,D,Vegas Golden Knights,0.4161850810050964,77,79,75,-2
+Brett Howden,25.0,C,Vegas Golden Knights,0.1883184611797332,73,74,74,1
+Chandler Stephenson,28.9,C,Vegas Golden Knights,0.7237840890884399,81,83,78,-3
+Jack Eichel,26.4,C,Vegas Golden Knights,0.9149854779243468,84,86,83,-1
+Jonathan Marchessault,32.3,R,Vegas Golden Knights,0.7640225291252136,82,84,80,-2
+Keegan Kolesar,25.9,R,Vegas Golden Knights,0.2793434858322143,75,75,75,0
+Mark Stone,30.7,R,Vegas Golden Knights,1.1455087661743164,87,88,87,0
+Michael Amadio,26.9,R,Vegas Golden Knights,0.3431631922721863,76,76,76,0
+Nicolas Roy,26.1,C,Vegas Golden Knights,0.4999067783355713,78,79,79,1
+Paul Cotter,23.4,C,Vegas Golden Knights,-0.067764087539349,70,72,70,0
+Phil Kessel,35.5,R,Vegas Golden Knights,0.238457590341568,74,79,73,-1
+Reilly Smith,32.0,R,Vegas Golden Knights,0.6951083540916443,81,83,80,-1
+Shea Theodore,27.6,D,Vegas Golden Knights,0.8924649357795715,83,85,82,-1
+William Karlsson,30.2,C,Vegas Golden Knights,0.7318850755691528,81,83,80,-1
+Zach Whitecloud,26.3,D,Vegas Golden Knights,0.2571055293083191,74,78,72,-2
+Alex Ovechkin,37.5,L,Washington Capitals,0.8990283012390137,83,89,81,-2
+Aliaksei Protas,22.2,C,Washington Capitals,0.3223276184675428,75,77,75,0
+Anthony Mantha,28.5,R,Washington Capitals,0.5243151783943176,78,80,76,-2
+Connor Brown,28.8,R,Washington Capitals,0.3489490151405334,76,78,75,-1
+Conor Sheary,30.8,L,Washington Capitals,0.4091350138187408,77,80,76,-1
+Dmitry Orlov,31.7,D,Boston Bruins,0.5684249997138977,79,79,80,1
+Dylan Strome,26.1,C,Washington Capitals,0.59951251745224,79,80,81,2
+Erik Gustafsson,31.0,D,Toronto Maple Leafs,0.5028007626533508,78,78,78,0
+Evgeny Kuznetsov,30.9,C,Washington Capitals,0.5169113874435425,78,82,72,-6
+Garnet Hathaway,31.3,R,Boston Bruins,0.4867235124111175,78,78,76,-2
+John Carlson,33.0,D,Washington Capitals,0.8058058023452759,82,83,83,1
+Lars Eller,33.9,C,Colorado Avalanche,0.3637834787368774,76,77,74,-2
+Marcus Johansson,32.5,L,Minnesota Wild,0.419515311717987,77,78,78,1
+Martin Fehervary,23.5,D,Washington Capitals,0.1173194870352745,72,73,73,1
+Nic Dowd,32.8,C,Washington Capitals,0.4954480230808258,78,78,79,1
+Nick Jensen,32.5,D,Washington Capitals,0.4010931849479675,76,78,75,-1
+T.J. Oshie,36.3,R,Washington Capitals,0.6306545734405518,80,82,79,-1
+Trevor van Riemsdyk,31.7,D,Washington Capitals,0.4831996262073517,78,78,77,-1
+A.J. Greer,26.3,L,Boston Bruins,0.4498082995414734,77,77,76,-1
+Brandon Carlo,26.3,D,Boston Bruins,0.5608236789703369,79,79,80,1
+Charlie Coyle,31.1,C,Boston Bruins,0.565334677696228,79,80,80,1
+Connor Clifton,27.9,D,Boston Bruins,0.4591151773929596,77,78,76,-1
+Craig Smith,33.6,C,Washington Capitals,0.5716158151626587,79,82,76,-3
+David Krejci,36.9,C,Boston Bruins,0.8243383169174194,82,84,82,0
+David Pastrnak,26.8,R,Boston Bruins,1.4236091375350952,91,93,90,-1
+Derek Forbort,31.1,D,Boston Bruins,0.2051853537559509,74,75,71,-3
+Hampus Lindholm,29.2,D,Boston Bruins,0.7852979302406311,82,82,86,4
+Jake DeBrusk,26.4,L,Boston Bruins,0.9375696182250975,84,84,89,5
+Jakub Lauko,23.0,C,Boston Bruins,0.26297160730044,74,75,74,0
+Jakub Zboril,26.1,D,Boston Bruins,0.4025171893975011,76,78,76,0
+Mike Reilly,29.3,D,Boston Bruins,0.5904358625411987,79,79,78,-1
+Nick Foligno,35.4,L,Boston Bruins,0.5084776878356934,78,79,79,1
+Patrice Bergeron,37.7,C,Boston Bruins,1.3750677108764648,90,92,89,-1
+Pavel Zacha,26.0,C,Boston Bruins,0.597766637802124,79,79,80,1
+Taylor Hall,31.3,L,Boston Bruins,0.8638312816619873,83,85,80,-3
+Tomas Nosek,30.6,L,Boston Bruins,0.2948542237281799,75,76,74,-1
+Andrei Svechnikov,23.0,R,Carolina Hurricanes,0.9503635168075562,84,88,86,2
+Brady Skjei,29.0,D,Carolina Hurricanes,0.6463899612426758,80,80,82,2
+Brent Burns,38.1,D,Carolina Hurricanes,0.9833241105079652,85,85,91,6
+Brett Pesce,28.4,D,Carolina Hurricanes,0.7250110507011414,81,81,82,1
+Calvin de Haan,31.9,D,Carolina Hurricanes,0.3471738696098327,76,77,79,3
+Derek Stepan,32.8,C,Carolina Hurricanes,0.4995011985301971,78,81,78,0
+Jaccob Slavin,28.9,D,Carolina Hurricanes,1.023628830909729,85,85,87,2
+Jalen Chatfield,26.9,D,Carolina Hurricanes,0.649651288986206,80,80,82,2
+Jesper Fast,31.3,R,Carolina Hurricanes,0.5194263458251953,78,78,78,0
+Jesperi Kotkaniemi,22.7,C,Carolina Hurricanes,0.5908830165863037,79,90,82,3
+Jordan Martinook,30.7,L,Carolina Hurricanes,0.5214583277702332,78,78,78,0
+Jordan Staal,34.5,C,Carolina Hurricanes,0.6947898268699646,81,82,80,-1
+Martin Necas,24.2,C,Carolina Hurricanes,0.8033183217048645,82,82,84,2
+Ondrej Kase,26.9,R,Carolina Hurricanes,0.5533342957496643,79,80,78,-1
+Paul Stastny,37.2,C,Carolina Hurricanes,0.6071442365646362,79,83,79,0
+Sebastian Aho,27.1,C,Carolina Hurricanes,0.872551441192627,83,86,82,-1
+Seth Jarvis,21.1,C,Carolina Hurricanes,0.7777353525161743,82,86,82,0
+Teuvo Teravainen,28.5,L,Carolina Hurricanes,0.8296979665756226,82,84,83,1
+Adam Boqvist,22.6,D,Columbus Blue Jackets,0.1263600885868072,73,75,72,-1
+Andrew Peeke,25.0,D,Columbus Blue Jackets,-0.5396685600280762,63,70,65,2
+Boone Jenner,29.8,C,Columbus Blue Jackets,0.4831537306308746,78,78,76,-2
+Cole Sillinger,19.9,C,Columbus Blue Jackets,-0.0078744199126958,71,75,68,-3
+Eric Robinson,27.8,L,Columbus Blue Jackets,0.1235950142145156,72,75,71,-1
+Erik Gudbranson,31.2,D,Columbus Blue Jackets,-0.2066784054040908,68,70,65,-3
+Gustav Nyquist,33.4,L,Columbus Blue Jackets,0.32378751039505,75,79,75,0
+Jack Roslovic,26.2,C,Columbus Blue Jackets,0.2977072596549988,75,76,74,-1
+Jake Bean,24.5,D,Columbus Blue Jackets,-0.0713839679956436,70,73,70,0
+Jakub Voracek,33.2,R,Columbus Blue Jackets,0.4404992163181305,77,82,74,-3
+Johnny Gaudreau,29.6,L,Columbus Blue Jackets,0.9506655931472778,84,88,78,-6
+Justin Danforth,29.6,R,Columbus Blue Jackets,0.2394938964697026,74,75,74,0
+Mathieu Olivier,26.1,R,Columbus Blue Jackets,-0.143065333366394,69,71,70,1
+Patrik Laine,24.9,L,Columbus Blue Jackets,0.4963591396808624,78,86,80,2
+Sean Kuraly,30.1,C,Columbus Blue Jackets,0.0674321949481964,72,73,71,-1
+Vladislav Gavrikov,27.3,D,Los Angeles Kings,-0.014288742095232,71,73,76,5
+Yegor Chinakhov,21.9,R,Columbus Blue Jackets,-0.0401289239525795,70,71,71,1
+Zach Werenski,25.3,D,Columbus Blue Jackets,0.3604846894741058,76,82,76,0
+Arber Xhekaj,22.0,D,Montreal Canadiens,-0.3010333223906941,66,69,66,0
+Brendan Gallagher,30.9,R,Montreal Canadiens,0.6036707758903503,79,83,76,-3
+Chris Wideman,33.2,D,Montreal Canadiens,0.0052569042891263,71,74,70,-1
+Christian Dvorak,27.1,C,Montreal Canadiens,0.2374395281076431,74,77,71,-3
+Cole Caufield,22.1,R,Montreal Canadiens,0.5164076685905457,78,80,77,-1
+David Savard,32.4,D,Montreal Canadiens,-0.3084509968757629,66,73,63,-3
+Evgenii Dadonov,34.0,R,Dallas Stars,0.4802457988262176,78,80,76,-2
+Jake Evans,26.6,C,Montreal Canadiens,0.2704902291297912,75,75,75,0
+Johnathan Kovacevic,25.7,D,Montreal Canadiens,-0.0963003386068896,69,73,69,0
+Jordan Harris,22.7,D,Montreal Canadiens,-0.0491465442945634,70,72,70,0
+Josh Anderson,28.9,R,Montreal Canadiens,0.2556921243667602,74,77,74,0
+Juraj Slafkovsky,18.8,L,Montreal Canadiens,-0.1803451256842634,68,75,68,0
+Kaiden Guhle,21.2,D,Montreal Canadiens,-0.2985278523543029,66,69,66,0
+Kirby Dach,22.2,C,Montreal Canadiens,0.2768649160861969,75,76,76,1
+Mike Hoffman,33.3,L,Montreal Canadiens,0.3467497825622558,76,79,74,-2
+Nick Suzuki,23.6,C,Montreal Canadiens,0.3902231156826019,76,80,75,-1
+Rem Pitlick,26.0,C,Montreal Canadiens,0.053228959441185,71,74,70,-1
+Sean Monahan,28.2,C,Montreal Canadiens,0.4859152734279632,78,81,77,-1
+Alexander Kerfoot,28.6,C,Toronto Maple Leafs,0.5314555168151855,78,79,76,-2
+Auston Matthews,25.5,C,Toronto Maple Leafs,1.619585037231445,94,94,93,-1
+Calle Jarnkrok,31.5,C,Toronto Maple Leafs,0.5356699824333191,78,79,79,1
+David Kampf,28.2,C,Toronto Maple Leafs,0.2826033234596252,75,75,73,-2
+Denis Malgin,26.2,C,Colorado Avalanche,0.2958254218101501,75,76,76,1
+Jake Muzzin,33.7,D,Toronto Maple Leafs,0.5784386396408081,79,82,78,-1
+John Tavares,32.5,C,Toronto Maple Leafs,1.0289318561553955,85,86,84,-1
+Justin Holl,31.2,D,Toronto Maple Leafs,0.4069361686706543,76,79,75,-1
+Mark Giordano,39.5,D,Toronto Maple Leafs,0.7040473818778992,81,86,78,-3
+Michael Bunting,27.5,L,Toronto Maple Leafs,0.9004107117652893,83,87,80,-3
+Mitchell Marner,25.9,R,Toronto Maple Leafs,1.3711658716201782,90,91,89,-1
+Morgan Rielly,29.1,D,Toronto Maple Leafs,0.6825999021530151,80,82,78,-2
+Nicolas Aube-Kubel,26.9,R,Washington Capitals,0.3252426385879516,75,76,76,1
+Pierre Engvall,26.8,L,New York Islanders,0.480338454246521,78,78,78,0
+Rasmus Sandin,23.1,D,Washington Capitals,0.713884711265564,81,83,79,-2
+TJ Brodie,32.8,D,Toronto Maple Leafs,0.559112548828125,79,79,76,-3
+William Nylander,26.9,R,Toronto Maple Leafs,1.0343786478042605,85,85,85,0
+Zach Aston-Reese,28.6,C,Toronto Maple Leafs,0.2738895714282989,75,77,73,-2
+Alex Newhook,22.2,C,Colorado Avalanche,0.4078609645366668,76,79,77,1
+Andrew Cogliano,35.8,C,Colorado Avalanche,0.2052024900913238,74,76,73,-1
+Artturi Lehkonen,27.7,L,Colorado Avalanche,0.635064423084259,80,80,82,2
+Ben Meyers,24.3,C,Colorado Avalanche,0.0904155719061988,72,73,72,0
+Bowen Byram,21.8,D,Colorado Avalanche,0.260051594818706,74,78,74,0
+Cale Makar,24.4,D,Colorado Avalanche,1.4726037979125977,92,93,94,2
+Devon Toews,29.1,D,Colorado Avalanche,1.0261213779449463,85,88,85,0
+Erik Johnson,34.9,D,Colorado Avalanche,0.2927152514457702,75,79,72,-3
+Evan Rodrigues,29.7,C,Colorado Avalanche,0.567825436592102,79,79,79,0
+J.T. Compher,28.0,L,Colorado Avalanche,0.6618624925613403,80,80,82,2
+Josh Manson,31.4,D,Colorado Avalanche,0.0424177795648574,71,76,73,2
+Kurtis MacDermid,29.0,D,Colorado Avalanche,0.0809267610311508,72,72,73,1
+Logan O'Connor,26.6,R,Colorado Avalanche,0.4074016809463501,76,78,77,1
+Lukas Sedlak,29.8,C,Philadelphia Flyers,0.525782585144043,78,78,75,-3
+Mikko Rantanen,26.4,R,Colorado Avalanche,1.218938946723938,88,92,87,-1
+Nathan MacKinnon,27.6,C,Colorado Avalanche,1.4194343090057373,91,93,91,0
+Samuel Girard,24.9,D,Colorado Avalanche,0.4066195487976074,76,78,76,0
+Valeri Nichushkin,28.1,R,Colorado Avalanche,0.9517935514450072,84,88,86,2
+Alec Regula,22.3,D,Chicago Blackhawks,-0.2732483363048869,67,69,67,0
+Andreas Athanasiou,28.6,C,Chicago Blackhawks,0.1137690246105194,72,75,71,-1
+Buddy Robinson,31.5,R,Chicago Blackhawks,0.1565021868801955,73,74,73,0
+Colin Blackwell,29.9,C,Chicago Blackhawks,0.1450280100107193,73,76,70,-3
+Connor Murphy,30.0,D,Chicago Blackhawks,-0.1733110100030899,68,71,68,0
+Filip Roos,24.2,D,Chicago Blackhawks,-0.0237984538797709,70,73,70,0
+Jack Johnson,36.2,D,Colorado Avalanche,-0.4609981477260589,64,72,64,0
+Jarred Tinordi,31.1,D,Chicago Blackhawks,-0.2899958193302154,67,72,68,1
+Jonathan Toews,34.8,C,Chicago Blackhawks,0.3139996826648712,75,84,72,-3
+Jujhar Khaira,28.6,L,Chicago Blackhawks,0.1802938431501388,73,74,74,1
+MacKenzie Entwistle,23.7,R,Chicago Blackhawks,-0.0223471205681562,70,72,70,0
+Max Domi,28.1,C,Dallas Stars,0.3378031551837921,75,78,74,-1
+Patrick Kane,34.4,R,New York Rangers,0.5194831490516663,78,86,76,-2
+Philipp Kurashev,23.5,C,Chicago Blackhawks,-0.0169974826276302,70,72,69,-1
+Sam Lafferty,28.1,C,Toronto Maple Leafs,0.0795574635267257,72,74,70,-2
+Seth Jones,28.5,D,Chicago Blackhawks,0.2409760355949401,74,78,74,0
+Taylor Raddysh,25.1,R,Chicago Blackhawks,0.2821390628814697,75,76,75,0
+Tyler Johnson,32.7,C,Chicago Blackhawks,0.3662021160125732,76,81,74,-2
+Adam Henrique,33.1,C,Anaheim Ducks,0.492081731557846,78,81,75,-3
+Cam Fowler,31.3,D,Anaheim Ducks,0.1363636553287506,73,77,70,-3
+Derek Grant,32.9,C,Anaheim Ducks,0.0754488930106163,72,73,71,-1
+Dmitry Kulikov,32.4,D,Pittsburgh Penguins,-0.0595674887299537,70,74,66,-4
+Frank Vatrano,29.0,R,Anaheim Ducks,0.1506514996290207,73,75,71,-2
+Isac Lundestrom,23.4,C,Anaheim Ducks,-0.0053200074471533,71,73,69,-2
+Jakob Silfverberg,32.5,R,Anaheim Ducks,0.053485732525587,71,76,70,-1
+Jamie Drysdale,20.6,D,Anaheim Ducks,-0.1679444462060928,68,72,67,-1
+John Klingberg,30.6,D,Minnesota Wild,-0.0247028954327106,70,79,66,-4
+Kevin Shattenkirk,34.2,D,Anaheim Ducks,0.0296278335154056,71,79,67,-4
+Mason McTavish,20.2,C,Anaheim Ducks,0.1735632075603435,73,75,73,0
+Max Comtois,24.2,L,Anaheim Ducks,-0.0034573746379464,71,74,70,-1
+Max Jones,25.1,L,Anaheim Ducks,-0.1498761475086212,69,71,69,0
+Nathan Beaulieu,30.3,D,Anaheim Ducks,-0.4299548268318176,65,72,63,-2
+Pavol Regenda,23.0,L,Anaheim Ducks,0.0035318183197591,71,72,71,0
+Ryan Strome,29.7,C,Anaheim Ducks,0.1616575568914413,73,78,69,-4
+Trevor Zegras,22.0,C,Anaheim Ducks,0.3167639076709747,75,80,73,-2
+Troy Terry,25.5,R,Anaheim Ducks,0.5780465006828308,79,80,78,-1
+Adam Larsson,30.4,D,Seattle Kraken,0.2730886042118072,75,77,78,3
+Alex Wennberg,28.5,C,Seattle Kraken,0.396115779876709,76,79,76,0
+Andre Burakovsky,28.0,L,Seattle Kraken,0.6068707704544067,79,82,77,-2
+Brandon Tanev,31.2,L,Seattle Kraken,0.5574716329574585,79,80,79,0
+Carson Soucy,28.7,D,Seattle Kraken,0.292405366897583,75,77,74,-1
+Jaden Schwartz,30.8,C,Seattle Kraken,0.5004900693893433,78,83,77,-1
+Jamie Oleksiak,30.3,D,Seattle Kraken,0.3026754558086395,75,77,75,0
+Jared McCann,26.8,L,Seattle Kraken,0.8062593340873718,82,82,84,2
+Jordan Eberle,32.9,R,Seattle Kraken,0.634589433670044,80,81,80,0
+Justin Schultz,32.7,D,Seattle Kraken,0.3145189881324768,75,79,74,-1
+Karson Kuhlman,27.5,C,Winnipeg Jets,0.2118794918060302,74,75,73,-1
+Matty Beniers,20.4,C,Seattle Kraken,0.7446586582800465,81,88,81,0
+Oliver Bjorkstrand,28.0,R,Seattle Kraken,0.5519428253173828,79,80,78,-1
+Ryan Donato,27.0,C,Seattle Kraken,0.483477920293808,78,78,77,-1
+Shane Wright,18.9,C,Seattle Kraken,0.3374841835973218,75,83,75,0
+Vince Dunn,26.4,D,Seattle Kraken,0.5745754241943359,79,80,83,4
+Will Borgen,26.3,D,Seattle Kraken,0.2353143244981765,74,76,72,-2
+Yanni Gourde,31.3,C,Seattle Kraken,0.6709350347518921,80,82,80,0
+Brad Malone,33.6,C,Edmonton Oilers,0.0925777778029441,72,73,71,-1
+Brett Kulak,29.2,D,Edmonton Oilers,0.327361524105072,75,77,77,2
+Cody Ceci,29.3,D,Edmonton Oilers,0.2363742887973785,74,76,73,-1
+Connor McDavid,26.2,C,Edmonton Oilers,1.742617130279541,95,96,99,4
+Darnell Nurse,28.1,D,Edmonton Oilers,0.5444409251213074,78,79,79,1
+Derek Ryan,36.3,C,Edmonton Oilers,0.4781178534030914,77,79,77,0
+Devin Shore,28.7,C,Edmonton Oilers,0.2443953901529312,74,75,75,1
+Dylan Holloway,21.4,L,Edmonton Oilers,0.3117624429091472,75,76,75,0
+Evan Bouchard,23.4,D,Edmonton Oilers,0.6964621543884277,81,81,84,3
+Evander Kane,31.7,L,Edmonton Oilers,0.6702497005462646,80,83,78,-2
+Jesse Puljujarvi,24.9,R,Carolina Hurricanes,0.4834363460540771,78,81,76,-2
+Leon Draisaitl,27.4,C,Edmonton Oilers,1.2185297012329102,88,89,91,3
+Ryan McLeod,23.5,C,Edmonton Oilers,0.3760754466056824,76,76,78,2
+Ryan Murray,29.2,D,Edmonton Oilers,0.1705373376607895,73,77,72,-1
+Ryan Nugent-Hopkins,30.0,C,Edmonton Oilers,0.9213560819625854,84,84,89,5
+Tyson Barrie,31.7,D,Nashville Predators,0.5524030327796936,79,79,76,-3
+Zach Hyman,30.8,L,Edmonton Oilers,1.000080943107605,85,85,87,2
+Andrei Kuzmenko,27.1,L,Vancouver Canucks,0.9503608184405956,84,85,84,0
+Bo Horvat,28.0,C,New York Islanders,0.7076283693313599,81,81,80,-1
+Brock Boeser,26.1,R,Vancouver Canucks,0.4819762110710144,78,81,76,-2
+Conor Garland,27.0,R,Vancouver Canucks,0.6030920147895813,79,82,78,-1
+Curtis Lazar,28.1,C,New Jersey Devils,0.1988196820020675,74,75,73,-1
+Dakota Joshua,26.9,C,Vancouver Canucks,0.1445062160491943,73,75,72,-1
+Elias Pettersson,24.4,C,Vancouver Canucks,1.132258415222168,87,87,90,3
+J.T. Miller,30.0,C,Vancouver Canucks,0.7582326531410217,81,82,82,1
+Kyle Burroughs,27.7,D,Vancouver Canucks,0.0443371422588825,71,72,71,0
+Luke Schenn,33.4,D,Toronto Maple Leafs,0.167553424835205,73,75,71,-2
+Nils Aman,23.1,C,Vancouver Canucks,-0.0318866832317723,70,72,70,0
+Nils Hoglander,22.0,L,Vancouver Canucks,0.2161643952131271,74,76,73,-1
+Oliver Ekman-Larsson,31.6,D,Vancouver Canucks,0.097059741616249,72,77,68,-4
+Quinn Hughes,23.4,D,Vancouver Canucks,0.6270239949226379,80,82,84,4
+Riley Stillman,25.0,D,Buffalo Sabres,-0.2126934975385666,68,70,67,-1
+Tanner Pearson,30.3,L,Vancouver Canucks,0.3613021671772003,76,79,75,-1
+Tucker Poolman,29.4,D,Vancouver Canucks,0.139759287238121,73,74,71,-2
+Vasily Podkolzin,21.8,R,Vancouver Canucks,0.1719180643558502,73,76,72,-1
+Brian Dumoulin,31.6,D,Pittsburgh Penguins,0.2851091921329498,75,77,74,-1
+Brock McGinn,29.1,L,Anaheim Ducks,0.2531770169734955,74,76,72,-2
+Bryan Rust,30.9,R,Pittsburgh Penguins,0.74462890625,81,84,80,-1
+Danton Heinen,27.7,L,Pittsburgh Penguins,0.3406011760234833,76,80,75,-1
+Evgeni Malkin,36.7,C,Pittsburgh Penguins,0.918936252593994,84,88,83,-1
+Jake Guentzel,28.5,L,Pittsburgh Penguins,1.02092707157135,85,87,85,0
+Jan Rutta,32.7,D,Pittsburgh Penguins,0.3277927339076996,75,78,72,-3
+Jason Zucker,31.2,L,Pittsburgh Penguins,0.6042459607124329,79,82,79,0
+Jeff Carter,38.2,C,Pittsburgh Penguins,0.3146224319934845,75,81,74,-1
+Jeff Petry,35.3,D,Pittsburgh Penguins,0.5855058431625366,79,81,78,-1
+Josh Archibald,30.5,R,Pittsburgh Penguins,0.339085042476654,76,76,76,0
+Kasperi Kapanen,26.7,R,St Louis Blues,0.2987262904644012,75,77,73,-2
+Kris Letang,35.9,D,Pittsburgh Penguins,0.7713549137115479,82,83,83,1
+Marcus Pettersson,26.9,D,Pittsburgh Penguins,0.5689188241958618,79,79,80,1
+Pierre-Olivier Joseph,23.7,D,Pittsburgh Penguins,0.3799106776714325,76,76,77,1
+Rickard Rakell,29.9,R,Pittsburgh Penguins,0.6760713458061218,80,81,82,2
+Ryan Poehling,24.2,C,Pittsburgh Penguins,0.2648438811302185,74,75,75,1
+Sidney Crosby,35.6,C,Pittsburgh Penguins,1.1592628955841064,87,91,86,-1
+Barrett Hayton,22.8,C,Arizona Coyotes,0.3836995363235473,76,76,82,6
+Christian Fischer,26.0,R,Arizona Coyotes,0.0338954515755176,71,74,71,0
+Clayton Keller,24.7,R,Arizona Coyotes,0.6840282678604126,80,81,86,6
+Conor Timmins,24.5,D,Toronto Maple Leafs,0.5855983427187494,79,80,79,0
+Dysin Mayo,26.5,D,Arizona Coyotes,-0.7088216357502337,61,66,61,0
+J.J. Moser,22.8,D,Arizona Coyotes,-0.1143606305122375,69,70,71,2
+Jack McBain,23.2,C,Arizona Coyotes,0.0190485372205491,71,71,71,0
+Josh Brown,29.2,D,Arizona Coyotes,-0.2209685444831848,68,71,67,-1
+Lawson Crouse,25.8,L,Arizona Coyotes,0.4026250541210174,76,76,78,2
+Liam O'Brien,28.7,C,Arizona Coyotes,-0.0270097441971302,70,73,70,0
+Matias Maccelli,22.4,L,Arizona Coyotes,0.4518843987410367,77,78,77,0
+Nick Bjugstad,30.7,C,Edmonton Oilers,0.3645995259284973,76,77,76,0
+Nick Ritchie,27.3,L,Calgary Flames,0.1492306739091873,73,75,71,-2
+Nick Schmaltz,27.1,C,Arizona Coyotes,0.6912014484405518,80,81,82,2
+Shayne Gostisbehere,29.9,D,Carolina Hurricanes,0.1829830557107925,73,77,75,2
+Travis Boyd,29.5,C,Arizona Coyotes,0.0744556188583374,72,74,72,0
+Troy Stecher,29.0,D,Calgary Flames,-0.0957853123545646,69,72,70,1
+Zack Kassian,32.2,R,Arizona Coyotes,-0.0683650150895118,70,72,67,-3
+Egor Zamula,,D,Philadelphia Flyers,0.1803266416173455,73,74,73,0
+Hayden Hodgson,26.6,R,Philadelphia Flyers,0.040222854630622,71,72,71,0
+Ivan Provorov,26.2,D,Philadelphia Flyers,0.1245112195611,72,76,71,-1
+James van Riemsdyk,33.9,L,Philadelphia Flyers,0.5411783456802368,78,80,77,-1
+Joel Farabee,23.1,L,Philadelphia Flyers,0.2975756227970123,75,79,74,-1
+Justin Braun,36.1,D,Philadelphia Flyers,0.110568456351757,72,77,72,0
+Kevin Hayes,30.9,C,Philadelphia Flyers,0.4854722619056701,78,79,76,-2
+Morgan Frost,23.9,C,Philadelphia Flyers,0.2597538530826568,74,75,76,2
+Nick Seeler,29.8,D,Philadelphia Flyers,0.2461885660886764,74,76,76,2
+Nicolas Deslauriers,32.1,L,Philadelphia Flyers,0.0728156343102455,72,73,72,0
+Noah Cates,24.1,L,Philadelphia Flyers,0.3745089471340179,76,77,78,2
+Owen Tippett,24.1,R,Philadelphia Flyers,0.403808057308197,76,78,80,4
+Scott Laughton,28.8,C,Philadelphia Flyers,0.3628089427947998,76,76,77,1
+Tanner Laczynski,25.8,C,Philadelphia Flyers,0.0516272388036469,71,73,71,0
+Tony DeAngelo,27.4,D,Philadelphia Flyers,0.3171843588352203,75,78,73,-2
+Travis Konecny,26.0,R,Philadelphia Flyers,0.6316036581993103,80,81,81,1
+Travis Sanheim,27.0,D,Philadelphia Flyers,0.1395366340875625,73,75,71,-2
+Wade Allison,25.4,R,Philadelphia Flyers,0.1639328456397086,73,76,73,0
+Alexander Holtz,,R,New Jersey Devils,0.0038153042849196,71,71,71,0
+Brendan Smith,34.1,D,New Jersey Devils,0.332063764333725,75,78,76,1
+Damon Severson,28.6,D,New Jersey Devils,0.6990630030632019,81,81,86,5
+Dawson Mercer,21.4,C,New Jersey Devils,0.6345558762550354,80,82,82,2
+Dougie Hamilton,29.8,D,New Jersey Devils,0.9370236992836,84,85,85,1
+Erik Haula,32.0,L,New Jersey Devils,0.6840842366218567,80,81,80,0
+Jack Hughes,21.9,C,New Jersey Devils,1.0910240411758425,86,91,86,0
+Jesper Boqvist,24.4,C,New Jersey Devils,0.2980370223522186,75,75,76,1
+Jesper Bratt,24.7,L,New Jersey Devils,0.878204882144928,83,84,82,-1
+John Marino,25.8,D,New Jersey Devils,0.5209928154945374,78,80,76,-2
+Jonas Siegenthaler,25.9,D,New Jersey Devils,0.505517303943634,78,79,78,0
+Michael McLeod,25.1,C,New Jersey Devils,0.2307746261358261,74,74,74,0
+Miles Wood,27.5,L,New Jersey Devils,0.2587477266788482,74,75,75,1
+Nathan Bastian,25.3,R,New Jersey Devils,0.5267181396484375,78,78,78,0
+Ondrej Palat,32.0,L,New Jersey Devils,0.7562962174415588,81,84,80,-1
+Ryan Graves,27.9,D,New Jersey Devils,0.4920383989810943,78,79,76,-2
+Tomas Tatar,32.3,L,New Jersey Devils,0.794714629650116,82,82,83,1
+Yegor Sharangovich,24.8,C,New Jersey Devils,0.3439414799213409,76,78,75,-1
+Alex Tuch,26.9,R,Buffalo Sabres,0.8249677419662476,82,83,82,0
+Casey Mittelstadt,24.3,C,Buffalo Sabres,0.3266477584838867,75,76,76,1
+Dylan Cozens,22.1,C,Buffalo Sabres,0.4857510328292846,78,79,78,0
+Henri Jokiharju,23.8,D,Buffalo Sabres,-0.0273010581731796,70,73,69,-1
+Ilya Lyubushkin,29.0,D,Buffalo Sabres,0.1038941293954849,72,74,73,1
+Jack Quinn,21.5,R,Buffalo Sabres,0.4798232217329868,78,81,78,0
+Jacob Bryson,25.3,D,Buffalo Sabres,-0.0455708280205726,70,71,67,-3
+Jeff Skinner,30.9,L,Buffalo Sabres,0.7451621294021606,81,85,81,0
+JJ Peterka,21.2,R,Buffalo Sabres,0.2202325326143955,74,76,74,0
+Kyle Okposo,35.0,R,Buffalo Sabres,0.3578205406665802,76,78,73,-3
+Mattias Samuelsson,23.0,D,Buffalo Sabres,0.0252093542367219,71,72,69,-2
+Owen Power,20.3,D,Buffalo Sabres,0.1683678888688501,73,78,73,0
+Peyton Krebs,22.2,C,Buffalo Sabres,0.1057729125022888,72,73,73,1
+Rasmus Asplund,25.3,C,Nashville Predators,0.2389014810323715,74,75,73,-1
+Rasmus Dahlin,23.0,D,Buffalo Sabres,0.544331967830658,78,84,78,0
+Tage Thompson,25.4,C,Buffalo Sabres,0.7794643044471741,82,82,82,0
+Victor Olofsson,27.7,L,Buffalo Sabres,0.2888360321521759,75,78,74,-1
+Zemgus Girgensons,29.2,L,Buffalo Sabres,0.2808389365673065,75,75,74,-1
+Alex DeBrincat,25.3,R,Ottawa Senators,0.6708415746688843,80,82,77,-3
+Artem Zub,27.5,D,Ottawa Senators,0.1467599421739578,73,74,71,-2
+Austin Watson,31.2,L,Ottawa Senators,0.1388092339038849,73,74,72,-1
+Brady Tkachuk,23.5,L,Ottawa Senators,0.8816431164741516,83,87,84,1
+Claude Giroux,35.2,R,Ottawa Senators,0.895910918712616,83,85,84,1
+Drake Batherson,24.9,R,Ottawa Senators,0.5852723717689514,79,81,77,-2
+Erik Brannstrom,23.6,D,Ottawa Senators,0.3257789313793182,75,75,76,1
+Jake Sanderson,20.7,D,Ottawa Senators,0.2637518612378587,74,78,74,0
+Josh Norris,23.7,C,Ottawa Senators,0.6437414288520813,80,81,81,1
+Mark Kastelic,24.0,C,Ottawa Senators,0.0746642495086856,72,73,72,0
+Mathieu Joseph,26.1,R,Ottawa Senators,0.3970143795013428,76,78,77,1
+Nick Holden,35.9,D,Ottawa Senators,0.2946704626083374,75,75,75,0
+Parker Kelly,23.8,L,Ottawa Senators,0.1046024486422538,72,73,71,-1
+Shane Pinto,22.4,C,Ottawa Senators,0.3230737447738647,75,77,74,-1
+Thomas Chabot,26.2,D,Ottawa Senators,0.3981488049030304,76,77,76,0
+Tim Stutzle,21.2,L,Ottawa Senators,0.8047722578048706,82,85,85,3
+Travis Hamonic,32.6,D,Ottawa Senators,0.1002042517066001,72,74,72,0
+Tyler Motte,28.0,C,New York Rangers,0.2800010442733764,75,75,76,1
+Adam Pelech,28.6,D,New York Islanders,0.4832079112529754,78,79,77,-1
+Alexander Romanov,23.2,D,New York Islanders,0.0496305562555789,71,74,71,0
+Anders Lee,32.7,L,New York Islanders,0.6719812750816345,80,81,81,1
+Anthony Beauvillier,25.8,L,Vancouver Canucks,0.3805478811264038,76,77,78,2
+Brock Nelson,31.5,C,New York Islanders,0.7230529189109802,81,81,81,0
+Casey Cizikas,32.1,C,New York Islanders,0.1795328110456466,73,75,74,1
+Jean-Gabriel Pageau,30.4,C,New York Islanders,0.5294345617294312,78,79,80,2
+Josh Bailey,33.5,R,New York Islanders,0.3233722448348999,75,78,75,0
+Kieffer Bellows,24.8,L,Philadelphia Flyers,0.0860711932182312,72,74,71,-1
+Kyle Palmieri,32.2,C,New York Islanders,0.566372275352478,79,80,78,-1
+Mathew Barzal,25.8,C,New York Islanders,0.7634710669517517,82,83,82,0
+Matt Martin,33.9,L,New York Islanders,0.1516168713569641,73,74,72,-1
+Nikita Soshnikov,29.1,R,New York Islanders,-0.0129211135208606,71,73,71,0
+Noah Dobson,23.2,D,New York Islanders,0.4961613714694977,78,79,80,2
+Robin Salo,24.2,D,New York Islanders,-0.005901227272497,71,71,71,0
+Ryan Pulock,28.5,D,New York Islanders,0.2569849491119385,74,79,73,-1
+Scott Mayfield,30.5,D,New York Islanders,0.2382822185754776,74,75,75,1
+Zach Parise,38.7,L,New York Islanders,0.5188360214233398,78,87,78,0
+Aaron Ekblad,27.1,D,Florida Panthers,0.8016723990440369,82,87,79,-3
+Aleksander Barkov,27.6,C,Florida Panthers,1.274732232093811,89,90,89,0
+Anton Lundell,21.5,C,Florida Panthers,0.6294737458229065,80,86,77,-3
+Brandon Montour,29.0,D,Florida Panthers,0.7184758186340332,81,81,86,5
+Carter Verhaeghe,27.6,C,Florida Panthers,0.9675151705741882,84,86,87,3
+Colin White,26.2,C,Florida Panthers,0.3374992311000824,75,77,74,-1
+Eetu Luostarinen,24.6,C,Florida Panthers,0.5273797512054443,78,78,80,2
+Gustav Forsling,26.8,D,Florida Panthers,0.6695646643638611,80,82,78,-2
+Josh Mahura,24.9,D,Florida Panthers,0.4217581748962402,77,77,79,2
+Marc Staal,36.2,D,Florida Panthers,0.1338190585374832,73,76,75,2
+Matthew Tkachuk,25.3,L,Florida Panthers,1.5384373664855957,92,92,96,4
+Nick Cousins,29.7,C,Florida Panthers,0.326788067817688,75,76,74,-1
+Patric Hornqvist,35.9,R,Florida Panthers,0.6013431549072266,79,84,77,-2
+Radko Gudas,32.8,D,Florida Panthers,0.5984359383583069,79,79,80,1
+Rudolfs Balcers,25.6,L,Tampa Bay Lightning,0.259808748960495,74,76,75,1
+Ryan Lomberg,28.3,L,Florida Panthers,0.2765125930309295,75,76,74,-1
+Sam Bennett,26.8,C,Florida Panthers,0.69937664270401,81,82,82,1
+Sam Reinhart,27.4,C,Florida Panthers,0.9236263036727904,84,85,85,1
+Michael McCarron,28.1,R,Nashville Predators,0.2254981100559234,74,75,71,-3
+Colin Miller,30.4,D,Dallas Stars,0.3389587700366974,76,79,76,0
+Denis Gurianov,25.8,R,Montreal Canadiens,0.2373526692390442,74,78,72,-2
+Esa Lindell,28.8,D,Dallas Stars,0.5223475098609924,78,78,74,-4
+Jamie Benn,33.7,L,Dallas Stars,0.8062779903411865,82,84,86,4
+Jani Hakanpaa,30.7,D,Dallas Stars,0.1300912946462631,73,73,73,0
+Jason Robertson,23.7,L,Dallas Stars,1.302053451538086,89,92,89,0
+Joe Pavelski,38.7,C,Dallas Stars,1.150173306465149,87,94,87,0
+Joel Kiviranta,27.0,L,Dallas Stars,0.1525820046663284,73,74,72,-1
+Luke Glendening,33.9,C,Dallas Stars,0.102356843650341,72,74,71,-1
+Mason Marchment,27.8,L,Dallas Stars,0.5914175510406494,79,84,75,-4
+Miro Heiskanen,23.7,D,Dallas Stars,0.8567668199539185,83,84,84,1
+Nils Lundkvist,22.7,D,Dallas Stars,0.3332341015338897,75,77,77,2
+Radek Faksa,29.2,C,Dallas Stars,0.2579107284545898,74,76,77,3
+Roope Hintz,26.4,C,Dallas Stars,1.1458959579467771,87,89,86,-1
+Ryan Suter,38.2,D,Dallas Stars,0.528534471988678,78,80,78,0
+Ty Dellandrea,22.7,C,Dallas Stars,0.2807502448558807,75,76,74,-1
+Tyler Seguin,31.1,C,Dallas Stars,0.5894780158996582,79,84,79,0
+Wyatt Johnston,19.9,C,Dallas Stars,0.5991904244922901,79,84,79,0
+Alex Goligoski,37.7,D,Minnesota Wild,0.4880240857601166,78,81,76,-2
+Brandon Duhaime,25.8,R,Minnesota Wild,0.2849031388759613,75,75,75,0
+Calen Addison,22.9,D,Minnesota Wild,0.3988230879845191,76,77,76,0
+Connor Dewar,23.8,C,Minnesota Wild,0.273830771446228,75,76,75,0
+Frederick Gaudreau,29.9,C,Minnesota Wild,0.5254696607589722,78,80,77,-1
+Jake Middleton,27.2,D,Minnesota Wild,0.367055594921112,76,76,77,1
+Jared Spurgeon,33.3,D,Minnesota Wild,0.9728299379348756,84,86,84,0
+Joel Eriksson Ek,26.2,C,Minnesota Wild,0.8835034966468811,83,84,84,1
+Jonas Brodin,29.7,D,Minnesota Wild,0.5787826776504517,79,80,79,0
+Kirill Kaprizov,25.9,L,Minnesota Wild,1.2721179723739624,89,91,88,-1
+Marco Rossi,21.2,C,Minnesota Wild,-0.0632046429806396,70,70,70,0
+Marcus Foligno,31.6,L,Minnesota Wild,0.6018585562705994,79,82,76,-3
+Mats Zuccarello,35.6,R,Minnesota Wild,0.8725202679634094,83,84,80,-3
+Matt Boldy,22.0,L,Minnesota Wild,0.7680692672729492,82,86,83,1
+Matt Dumba,28.7,D,Minnesota Wild,0.2656203806400299,74,78,72,-2
+Ryan Hartman,28.5,R,Minnesota Wild,0.7293423414230347,81,81,80,-1
+Sam Steel,25.1,C,Minnesota Wild,0.2462121248245239,74,74,75,1
+Tyson Jost,25.0,C,Buffalo Sabres,0.3307616412639618,75,77,76,1
+Dryden Hunt,27.2,L,Toronto Maple Leafs,0.0568031258881092,72,74,71,-1
+Andrew Mangiapane,27.0,L,Calgary Flames,0.7659872174263,82,83,82,0
+Blake Coleman,31.3,C,Calgary Flames,0.6450089812278748,80,80,81,1
+Brett Ritchie,29.7,R,Arizona Coyotes,0.2821218371391296,75,76,75,0
+Chris Tanev,33.3,D,Calgary Flames,0.7923557162284851,82,82,84,2
+Dillon Dube,24.7,C,Calgary Flames,0.4918724596500397,78,78,78,0
+Elias Lindholm,28.3,C,Calgary Flames,1.0629712343215942,86,87,86,0
+Jonathan Huberdeau,29.8,C,Calgary Flames,0.9642886519432068,84,86,82,-2
+Kevin Rooney,29.6,C,Calgary Flames,0.1221130862832069,72,74,71,-1
+MacKenzie Weegar,29.2,D,Calgary Flames,0.9156664609909058,84,85,85,1
+Michael Stone,32.7,D,Calgary Flames,0.2865350842475891,75,75,74,-1
+Mikael Backlund,34.0,C,Calgary Flames,0.8253818154335022,82,82,85,3
+Milan Lucic,34.8,L,Calgary Flames,0.1953500062227249,73,78,72,-1
+Nazem Kadri,32.5,C,Calgary Flames,0.8575732111930847,83,83,80,-3
+Nikita Zadorov,27.9,D,Calgary Flames,0.3350221216678619,75,77,74,-1
+Noah Hanifin,26.2,D,Calgary Flames,0.7096587419509888,81,81,82,1
+Rasmus Andersson,26.4,D,Calgary Flames,0.804576575756073,82,82,85,3
+Trevor Lewis,36.2,C,Calgary Flames,0.2571288049221039,74,76,73,-1
+Tyler Toffoli,30.9,R,Calgary Flames,0.8600847721099854,83,83,88,5
+Nicolas Hague,24.3,D,Vegas Golden Knights,0.1940549612045288,73,78,70,-3
+William Carrier,28.2,L,Vegas Golden Knights,0.57108473777771,79,79,81,2
+Caleb Jones,25.8,D,Chicago Blackhawks,-0.0822740495204925,70,72,69,-1
+Reese Johnson,24.6,C,Chicago Blackhawks,-0.0661169961094856,70,70,69,-1
+Brandt Clarke,19.7,D,Los Angeles Kings,0.2992320967984473,75,79,75,0
+Brendan Lemieux,27.0,L,Philadelphia Flyers,0.2449722290039062,74,75,75,1
+Morgan Geekie,24.7,C,Seattle Kraken,0.2956208288669586,75,76,76,1
+Kent Johnson,20.4,C,Columbus Blue Jackets,0.1551032987221564,73,77,73,0
+Adam Erne,27.9,L,Detroit Red Wings,0.1088016182184219,72,74,72,0
+Andrew Copp,28.7,C,Detroit Red Wings,0.4887472093105316,78,79,76,-2
+Ben Chiarot,31.9,D,Detroit Red Wings,-0.0483407117426395,70,73,67,-3
+David Perron,34.8,L,Detroit Red Wings,0.6335614919662476,80,83,77,-3
+Dominik Kubalik,27.6,L,Detroit Red Wings,0.3603467345237732,76,78,75,-1
+Dylan Larkin,26.7,C,Detroit Red Wings,0.6761269569396973,80,83,80,0
+Elmer Soderblom,21.5,L,Detroit Red Wings,0.3916510999506696,76,78,76,0
+Filip Hronek,25.3,D,Detroit Red Wings,0.22977314889431,74,75,73,-1
+Gustav Lindstrom,24.4,D,Detroit Red Wings,-0.1146824657917022,69,71,69,0
+Jakub Vrana,27.1,L,St Louis Blues,0.514642596244812,78,81,78,0
+Joe Veleno,23.2,C,Detroit Red Wings,0.0357524119317531,71,72,70,-1
+Lucas Raymond,21.0,L,Detroit Red Wings,0.2915337979793548,75,81,74,-1
+Michael Rasmussen,23.9,C,Detroit Red Wings,0.3226765394210815,75,75,79,4
+Moritz Seider,22.0,D,Detroit Red Wings,0.300477385520935,75,77,76,1
+Olli Maatta,28.6,D,Detroit Red Wings,0.0931506901979446,72,79,68,-4
+Oskar Sundqvist,29.0,C,Minnesota Wild,0.329693466424942,75,76,77,2
+Robert Hagg,28.1,D,Detroit Red Wings,0.1068125739693641,72,72,74,2
+Tyler Bertuzzi,28.1,L,Boston Bruins,0.5711744427680969,79,80,78,-1
+Adam Lowry,30.0,C,Winnipeg Jets,0.3259544670581817,75,77,75,0
+Blake Wheeler,36.6,R,Winnipeg Jets,0.5964495539665222,79,82,79,0
+Brenden Dillon,32.4,D,Winnipeg Jets,0.2812474370002746,75,75,75,0
+Cole Perfetti,21.1,C,Winnipeg Jets,0.5553843781018546,79,81,79,0
+David Gustafsson,22.9,C,Winnipeg Jets,0.1080243081798491,72,73,72,0
+Dylan DeMelo,29.9,D,Winnipeg Jets,0.3765896558761596,76,77,76,0
+Josh Morrissey,28.0,D,Winnipeg Jets,0.5430591702461243,78,79,79,1
+Kyle Connor,26.3,L,Winnipeg Jets,0.7652515172958374,82,83,79,-3
+Logan Stanley,24.8,D,Winnipeg Jets,0.0894915089011192,72,74,70,-2
+Mark Scheifele,30.0,C,Winnipeg Jets,0.7059527039527893,81,83,79,-2
+Mason Appleton,27.2,C,Winnipeg Jets,0.2459463775157928,74,75,74,0
+Morgan Barron,24.3,C,Winnipeg Jets,0.2466428130865097,74,75,75,1
+Nate Schmidt,31.7,D,Winnipeg Jets,0.3515057861804962,76,77,77,1
+Neal Pionk,27.7,D,Winnipeg Jets,0.1013125851750373,72,74,71,-1
+Nikolaj Ehlers,27.1,L,Winnipeg Jets,0.8519262671470642,83,84,83,0
+Pierre-Luc Dubois,24.8,L,Winnipeg Jets,0.74040287733078,81,83,82,1
+Saku Maenalanen,28.8,R,Winnipeg Jets,0.1031534671783447,72,74,73,1
+Sam Gagner,33.6,C,Winnipeg Jets,0.2762278318405151,75,79,73,-2
+Libor Hajek,24.9,D,New York Rangers,-0.1750751733779907,68,69,69,1
+Stefan Noesen,30.1,R,Carolina Hurricanes,0.7251338958740234,81,81,82,1
+Jackson Cates,25.2,C,Philadelphia Flyers,-0.0597391640085062,70,71,70,0
+Olle Lycksell,23.5,R,Philadelphia Flyers,-0.2622884192525411,67,69,67,0
+Trent Frederic,25.1,C,Boston Bruins,0.5269465446472168,78,79,79,1
+Dylan Guenther,19.8,R,Arizona Coyotes,0.0694593145066009,72,74,72,0
+Fabian Zetterlund,23.6,L,San Jose Sharks,0.2325599795025713,74,80,74,0
+Nico Hischier,24.2,C,New Jersey Devils,1.09229838848114,86,88,90,4
+Pius Suter,26.8,C,Detroit Red Wings,0.2591510117053985,74,75,74,0
+Jonathan Drouin,28.0,L,Montreal Canadiens,0.1919407397508621,73,77,73,0
+Nikita Zaitsev,31.4,D,Chicago Blackhawks,-0.153598815202713,69,72,65,-4
+Gabriel Fortier,22.7,L,Tampa Bay Lightning,0.014670860477754,71,72,71,0
+Cal Clutterbuck,35.4,R,New York Islanders,0.2073850780725479,74,75,75,1
+Oliver Wahlstrom,22.6,R,New York Islanders,0.4856398403644562,78,80,76,-2
+Simon Benoit,24.5,D,Anaheim Ducks,-0.5559695959091187,63,68,62,-1
+Alexey Toropchenko,,R,St Louis Blues,0.108963376685402,72,73,72,0
+Brandon Saad,30.4,L,St Louis Blues,0.3623337745666504,76,82,75,-1
+Brayden Schenn,31.6,C,St Louis Blues,0.447504460811615,77,81,74,-3
+Colton Parayko,29.9,D,St Louis Blues,-0.0050196554511785,71,78,68,-3
+Ivan Barbashev,27.3,C,Vegas Golden Knights,0.2367404848337173,74,75,74,0
+Jake Neighbours,21.0,L,St Louis Blues,-0.0477856922785287,70,71,70,0
+Jordan Kyrou,24.9,C,St Louis Blues,0.5486112236976624,78,81,78,0
+Justin Faulk,31.0,D,St Louis Blues,0.0894191786646843,72,77,67,-5
+Nathan Walker,29.1,L,St Louis Blues,0.1494657695293426,73,74,73,0
+Nick Leddy,32.0,D,St Louis Blues,-0.0432766377925872,70,75,70,0
+Niko Mikkola,26.9,D,New York Rangers,-0.1565951853990554,69,71,68,-1
+Noel Acciari,31.3,C,Toronto Maple Leafs,0.3247240781784057,75,76,74,-1
+Pavel Buchnevich,27.9,L,St Louis Blues,0.9316737651824952,84,84,85,1
+Robert Bortuzzo,34.0,D,St Louis Blues,0.1457745730876922,73,76,73,0
+Robert Thomas,23.7,C,St Louis Blues,0.6649941802024841,80,83,79,-1
+Ryan O'Reilly,32.1,C,Toronto Maple Leafs,0.6615738272666931,80,84,77,-3
+Torey Krug,32.0,D,St Louis Blues,0.2767851948738098,75,80,71,-4
+Vladimir Tarasenko,31.3,R,New York Rangers,0.6156579256057739,79,84,78,-1
+Zach Sanford,28.3,L,Nashville Predators,0.2311070412397384,74,77,72,-2
+Kailer Yamamoto,24.5,R,Edmonton Oilers,0.4203539490699768,77,79,78,1
+Warren Foegele,27.0,L,Edmonton Oilers,0.478287398815155,77,77,79,2
+Jason Dickinson,27.7,C,Chicago Blackhawks,0.1334707736968994,73,75,71,-2
+Sammy Blais,26.8,L,St Louis Blues,0.2259704321622848,74,74,75,1
+Brett Leason,23.9,R,Anaheim Ducks,-0.2846267819404602,67,71,66,-1
+Colton White,25.9,D,Anaheim Ducks,-0.3521650851656438,66,69,66,0
+Juuso Valimaki,24.5,D,Arizona Coyotes,0.3635287880897522,76,76,78,2
+Dan Renouf,28.4,D,Boston Bruins,0.204896903690062,74,75,74,0
+Noah Juulsen,26.0,D,Vancouver Canucks,0.0823897344583726,72,72,72,0
+Filip Zadina,23.3,R,Detroit Red Wings,0.1900605410337448,73,74,74,1
+Mason Shaw,24.4,C,Minnesota Wild,0.3313955193243694,75,75,75,0
+Daniel Sprong,26.0,R,Seattle Kraken,0.5848705172538757,79,79,81,2
+Dylan Coghlan,25.1,D,Carolina Hurricanes,0.3801209032535553,76,77,77,1
+Anton Stralman,36.3,D,Boston Bruins,-0.1318162679672241,69,76,68,-1
+Nick Blankenburg,24.9,D,Columbus Blue Jackets,-0.0384158419705585,70,71,70,0
+Ilya Mikheyev,28.3,R,Vancouver Canucks,0.6500610113143921,80,81,79,-1
+Tyler Myers,33.2,D,Vancouver Canucks,-0.1448827236890792,69,75,66,-3
+Alexander Barabanov,28.8,L,San Jose Sharks,0.5216748714447021,78,78,78,0
+Ian Cole,34.1,D,Tampa Bay Lightning,0.4727012813091278,77,79,74,-3
+Nick Perbix,24.8,D,Tampa Bay Lightning,0.465540036521692,77,79,77,0
+Zack MacEwen,26.7,C,Los Angeles Kings,-0.0223327614367008,70,72,71,1
+Markus Niemelainen,24.6,D,Edmonton Oilers,0.0486374879305109,71,72,71,0
+Vinnie Hinostroza,29.0,C,Buffalo Sabres,0.2004467099905014,74,76,72,-2
+Lucas Carlsson,25.3,D,Florida Panthers,0.28435831786221,75,78,75,0
+Matt Kiersted,24.7,D,Florida Panthers,0.2450550672036502,74,74,74,0
+Anton Blidh,27.9,L,Colorado Avalanche,0.0685511529445648,72,73,72,0
+Jayson Megna,33.1,C,Anaheim Ducks,-0.0578913874924182,70,73,69,-1
+Martin Kaut,23.5,R,San Jose Sharks,0.1891606881322454,73,74,73,0
+Axel Jonsson-Fjallby,,L,Winnipeg Jets,0.2771104654996987,75,75,75,0
+Dylan Samberg,24.2,D,Winnipeg Jets,0.4644966420972817,77,78,77,0
+Josh Leivo,29.8,L,St Louis Blues,0.5150869488716125,78,79,76,-2
+Jack Studnicka,24.1,C,Vancouver Canucks,-0.0894442565589455,69,72,69,0
+Matt Grzelcyk,29.2,D,Boston Bruins,0.8269492983818054,82,84,80,-2
+Nicholas Robertson,,L,Toronto Maple Leafs,0.1771607635693769,73,73,73,0
+Victor Mete,24.5,D,Toronto Maple Leafs,0.2059275060892105,74,79,72,-2
+Connor McMichael,21.9,C,Washington Capitals,0.1419929892925501,73,76,73,0
+Joe Snively,27.2,C,Washington Capitals,0.3035136551156329,75,76,75,0
+Kevin Bahl,22.7,D,New Jersey Devils,0.3564469777029448,76,76,76,0
+Jordan Greenway,26.1,L,Buffalo Sabres,0.2579940259456634,74,78,72,-2
+Connor Mackey,26.5,D,Arizona Coyotes,-0.1464676429982207,69,71,69,0
+Casey Fitzgerald,26.1,D,Florida Panthers,-0.1339163937574554,69,70,69,0
+Jake McCabe,29.5,D,Toronto Maple Leafs,0.0397596694529056,71,72,72,1
+Jon Merrill,31.1,D,Minnesota Wild,0.2644093632698059,74,77,73,-1
+Calle Rosen,29.1,D,St Louis Blues,0.2230530893053265,74,77,74,0
+Chad Ruhwedel,32.9,D,Pittsburgh Penguins,0.3650177419185638,76,78,76,0
+Kyle Clifford,31.8,L,Toronto Maple Leafs,0.1861006021499633,73,75,73,0
+Wayne Simmonds,34.6,R,Toronto Maple Leafs,0.2327944189310073,74,79,72,-2
+Jack Rathbone,23.5,D,Vancouver Canucks,-0.2289272131587735,67,71,67,0
+Jacob MacDonald,30.0,D,San Jose Sharks,0.3659698963165283,76,80,76,0
+Liam Foudy,23.1,C,Columbus Blue Jackets,0.0267055194473379,71,73,71,0
+Ross Johnston,29.0,L,New York Islanders,0.0067330985330045,71,73,71,0
+Derick Brassard,35.5,C,Ottawa Senators,0.3650012910366058,76,79,77,1
+Jacob Peterson,23.3,C,Dallas Stars,0.1561159512885865,73,75,73,0
+Beck Malenstyn,24.8,L,Washington Capitals,0.2154729442180419,74,74,74,0
+Drake Caggiula,28.7,C,Pittsburgh Penguins,0.1248173341155052,72,75,72,0
+Logan Brown,25.1,C,St Louis Blues,0.0975322350859642,72,75,72,0
+Guillaume Brisebois,25.7,D,Vancouver Canucks,0.0263576074929623,71,72,71,0
+Patrik Nemeth,31.1,D,Arizona Coyotes,-0.1698042750358581,68,72,67,-1
+Mikhail Maltsev,24.7,L,Colorado Avalanche,0.0844892499213647,72,74,72,0
+Joel Hanley,31.8,D,Dallas Stars,0.3625320196151733,76,78,76,0
+Sam Poulin,,R,Pittsburgh Penguins,-0.1082533346905163,69,71,69,0
+Lawrence Pilut,27.0,D,Buffalo Sabres,0.0321336067100847,71,74,71,0
+Jaret Anderson-Dolan,23.5,C,Los Angeles Kings,0.1444301754236221,73,74,72,-1
+Julien Gauthier,25.4,R,Ottawa Senators,0.0864548087120056,72,73,72,0
+Tyler Pitlick,31.4,C,St Louis Blues,0.1286451965570449,73,76,72,-1
+Brad Marchand,34.9,L,Boston Bruins,1.3473451137542725,90,93,88,-2
+Matt Luff,25.9,R,Detroit Red Wings,0.2298106551170349,74,74,73,-1
+Rasmus Ristolainen,28.4,D,Philadelphia Flyers,0.0561380945146083,72,74,73,1
+Eric Staal,38.4,C,Florida Panthers,0.3696449995040893,76,80,75,-1
+Sheldon Dries,28.9,C,Vancouver Canucks,0.2402840405702591,74,74,74,0
+Jake Leschyshyn,24.0,C,New York Rangers,-0.2063453095115724,68,69,68,0
+David Jiricek,18.9,D,Columbus Blue Jackets,-0.298063248427996,67,71,67,0
+Gavin Bayreuther,28.9,D,Columbus Blue Jackets,-0.0220806393772363,70,73,69,-1
+Kale Clague,24.8,D,Buffalo Sabres,-0.0397445075213909,70,71,68,-2
+Boris Katchouk,24.8,L,Chicago Blackhawks,0.123008519411087,72,73,73,1
+Givani Smith,25.1,R,Florida Panthers,0.1401049643754959,73,73,73,0
+Jordan Oesterle,30.8,D,Detroit Red Wings,-0.0462834574282169,70,72,68,-2
+Joel Armia,29.7,R,Montreal Canadiens,0.1912657767534256,73,77,72,-1
+Michael Pezzetta,25.0,L,Montreal Canadiens,0.2305791676044464,74,74,75,1
+Rasmus Kupari,23.0,C,Los Angeles Kings,0.1877842992544174,73,74,75,2
+Filip Kral,23.0,D,Toronto Maple Leafs,0.0581137697195953,72,72,72,0
+Matt Irwin,35.3,D,Washington Capitals,0.0861459746956825,72,77,70,-2
+Drew O'Connor,24.8,L,Pittsburgh Penguins,0.3057904866781897,75,76,75,0
+Dylan Gambrell,26.6,C,Ottawa Senators,0.045700903981924,71,72,72,1
+Steven Fogarty,29.6,C,Minnesota Wild,0.0438599827864949,71,72,71,0
+Adam Ruzicka,23.9,C,Calgary Flames,0.3643121023603626,76,79,76,0
+Ethan Bear,25.8,D,Vancouver Canucks,0.3790268898010254,76,77,78,2
+Pontus Holmberg,24.0,R,Toronto Maple Leafs,0.2934408393543219,75,76,75,0
+Dominic Toninato,28.7,C,Winnipeg Jets,0.1753663718700409,73,74,74,1
+Joel Edmundson,29.7,D,Montreal Canadiens,-0.113147996366024,69,72,67,-2
+Jordan Gross,27.9,D,Nashville Predators,0.1078603386492264,72,74,72,0
+Mark Jankowski,28.5,C,Nashville Predators,0.2498069107532501,74,76,72,-2
+Jansen Harkins,25.6,C,Winnipeg Jets,0.2288186103105545,74,74,75,1
+Kyle Capobianco,25.6,D,Winnipeg Jets,-0.0347018353406285,70,70,70,0
+Sonny Milano,26.9,L,Washington Capitals,0.3593111932277679,76,77,76,0
+Timothy Liljegren,23.9,D,Toronto Maple Leafs,0.6475359201431274,80,83,78,-2
+Austin Czarnik,30.3,C,Detroit Red Wings,0.3542425334453583,76,78,76,0
+Glenn Gawdin,25.7,C,Anaheim Ducks,0.0544150871312147,71,72,71,0
+Aleksi Heponiemi,24.0,C,Florida Panthers,0.022750054191357,71,72,71,0
+Nick DeSimone,28.0,D,Calgary Flames,-0.0958765736743758,69,71,69,0
+Lucas Johansen,25.1,D,Washington Capitals,0.1638270509407321,73,73,73,0
+Dennis Gilbert,26.4,D,Calgary Flames,0.1984954785551531,74,74,74,0
+Jacob Bernard-Docker,22.6,D,Ottawa Senators,-0.1792798741757254,68,70,68,0
+Joseph Cramarossa,30.1,C,Minnesota Wild,0.0606480399110248,72,73,72,0
+Jack Drury,23.1,C,Carolina Hurricanes,0.5341627298479432,78,78,78,0
+Alexander Alexeyev,,D,Washington Capitals,0.0321827913926244,71,72,71,0
+Filip Hallander,22.4,C,Pittsburgh Penguins,-0.0148366149044139,71,71,71,0
+Adam Beckman,21.8,L,Minnesota Wild,-0.0443934631176834,70,70,70,0
+Charlie McAvoy,25.3,D,Boston Bruins,1.258689284324646,89,90,88,-1
+Mattias Janmark,30.3,C,Edmonton Oilers,0.3290337324142456,75,76,76,1
+Brendan Gaunce,28.7,C,Columbus Blue Jackets,0.2504843175411224,74,75,73,-1
+Emil Bemstrom,23.8,R,Columbus Blue Jackets,0.2850213646888733,75,76,75,0
+Jonatan Berggren,22.7,R,Detroit Red Wings,0.0935335526528933,72,75,72,0
+Nikita Alexandrov,22.5,C,St Louis Blues,0.2024444045640923,74,76,74,0
+Sampo Ranta,22.6,L,Colorado Avalanche,-0.0483757373824024,70,71,70,0
+Shane Bowers,23.3,C,Colorado Avalanche,0.0214311442002505,71,71,71,0
+Matej Blumel,22.5,R,Dallas Stars,-0.1037020700945246,69,70,69,0
+Cale Fleury,24.2,D,Seattle Kraken,0.1596589758894634,73,73,73,0
+Klim Kostin,23.9,C,Edmonton Oilers,0.3380179405212402,76,76,76,0
+Jordie Benn,35.5,D,Toronto Maple Leafs,0.2031283676624298,74,76,73,-1
+Jake Christiansen,23.4,D,Columbus Blue Jackets,0.1000335650883409,72,73,72,0
+Marcus Bjork,25.2,D,Columbus Blue Jackets,0.0439078136019059,71,72,71,0
+Juuso Parssinen,22.1,C,Nashville Predators,0.5060410803380478,78,78,78,0
+Austin Strand,25.8,D,Anaheim Ducks,0.1628756820643771,73,73,73,0
+Laurent Dauphin,28.0,C,Arizona Coyotes,-0.4401566684246063,64,71,68,4
+Gustav Olofsson,28.1,D,Seattle Kraken,0.2404489938719274,74,76,74,0
+Michael Eyssimont,26.5,C,Tampa Bay Lightning,0.3567394330125525,76,78,76,0
+Jacob Larsson,25.8,D,Ottawa Senators,-0.1294254660606384,69,70,70,1
+Maxime Lajoie,25.1,D,Carolina Hurricanes,0.0782039285153054,72,73,72,0
+Andreas Englund,27.1,D,Chicago Blackhawks,0.0934985282269718,72,74,72,0
+Max Willman,27.8,C,Philadelphia Flyers,-0.1383657393323275,69,70,69,0
+Teddy Blueger,28.6,C,Vegas Golden Knights,0.2940545380115509,75,77,73,-2
+Riley Sheahan,31.0,C,Buffalo Sabres,0.2287009954452514,74,77,75,1
+William Lockwood,,R,Vancouver Canucks,-0.0924719938699184,69,70,69,0
+Sam Carrick,31.1,C,Anaheim Ducks,-0.1688036024570465,68,72,65,-3
+Jake Walman,27.1,D,Detroit Red Wings,0.3997537195682525,76,77,76,0
+Nick Cicek,22.7,D,San Jose Sharks,-0.2003599402961737,68,70,68,0
+Anders Bjork,26.6,L,Chicago Blackhawks,0.109852597117424,72,75,71,-1
+Tyler Tucker,23.1,D,St Louis Blues,-0.0188861121023553,70,71,70,0
+Patrick Brown,30.8,C,Ottawa Senators,0.0404563881456851,71,72,71,0
+Ian Mitchell,24.2,D,Chicago Blackhawks,-0.5779603277350758,63,67,63,0
+Michael Matheson,29.1,D,Montreal Canadiens,0.3983039855957031,76,77,75,-1
+Nic Petan,27.7,C,Minnesota Wild,0.2341740429401397,74,75,74,0
+Zach Bogosian,32.7,D,Tampa Bay Lightning,0.1822915226221084,73,75,72,-1
+Jacob Moverare,24.2,D,Los Angeles Kings,0.2185905930926958,74,74,74,0
+Trey Fix-Wolansky,23.5,R,Columbus Blue Jackets,0.1372031228285023,73,74,73,0
+Ville Heinola,21.9,D,Winnipeg Jets,-0.0407186989633268,70,71,70,0
+Jakob Chychrun,25.0,D,Ottawa Senators,0.4565978646278381,77,79,76,-1
+Mac Hollowell,24.2,D,Toronto Maple Leafs,-0.1602512197545418,68,70,68,0
+Simon Holmstrom,21.8,R,New York Islanders,0.1245925929930634,72,73,72,0
+Lassi Thomson,22.2,D,Ottawa Senators,-0.1046986342559038,69,70,69,0
+Oskar Olausson,20.0,R,Colorado Avalanche,0.011893675407376,71,71,71,0
+Carson Meyer,25.4,R,Columbus Blue Jackets,0.0043652641333465,71,72,71,0
+Alex Barré-Boulet,,C,Tampa Bay Lightning,0.186836468309091,73,74,73,0
+Philip Broberg,21.8,D,Edmonton Oilers,0.4134531252992969,77,79,77,0
+Tommy Novak,25.9,C,Nashville Predators,0.6221928838972982,80,80,80,0
+Kirill Marchenko,22.7,R,Columbus Blue Jackets,0.3114669482341049,75,76,75,0
+Tim Berni,23.1,D,Columbus Blue Jackets,-0.2017360321101815,68,69,68,0
+Lias Andersson,24.1,C,Los Angeles Kings,-0.1113908216357231,69,70,69,0
+James Hamblin,23.7,L,Edmonton Oilers,-0.0028634615747563,71,71,71,0
+Jeffrey Viel,25.9,L,San Jose Sharks,-0.0150466515256074,71,72,71,0
+Urho Vaakanainen,24.1,D,Anaheim Ducks,-0.5914895462002524,62,67,62,0
+Alex Galchenyuk,29.1,C,Colorado Avalanche,0.0078286463394761,71,80,68,-3
+Jean-Luc Foudy,20.6,C,Colorado Avalanche,-0.0323350384158674,70,71,70,0
+Tyler Benson,24.7,L,Edmonton Oilers,0.0246744887867645,71,71,71,0
+Samuel Fagemo,22.9,L,Los Angeles Kings,-0.0256123533570922,70,71,70,0
+Tobias Bjornfot,21.9,D,Los Angeles Kings,-0.0187064930796623,70,71,69,-1
+Cole Bardreau,29.4,C,New York Islanders,0.0203212263413453,71,72,71,0
+William Bitten,,C,St Louis Blues,0.0819233176589016,72,72,72,0
+Anthony Cirelli,25.7,C,Tampa Bay Lightning,0.6711047887802124,80,82,78,-2
+Daniil Miromanov,25.5,D,Vegas Golden Knights,0.1471981955608194,73,73,73,0
+Hudson Fasching,27.7,R,New York Islanders,0.432418297766329,77,77,77,0
+Charles Hudon,28.5,L,Colorado Avalanche,0.1232405453920364,72,76,71,-1
+Jonny Brodzinski,29.7,C,New York Rangers,0.1444085985422134,73,74,73,0
+Lukas Reichel,20.9,L,Chicago Blackhawks,0.0831318603811438,72,73,72,0
+Chris Tierney,28.7,C,Montreal Canadiens,0.1114966571331024,72,75,71,-1
+Zac Dalpe,33.4,C,Florida Panthers,0.0925021097064018,72,73,72,0
+Semyon Der-Arguchintsev,22.2,C,Toronto Maple Leafs,0.04501083518904,71,71,71,0
+Callahan Burke,25.7,C,Colorado Avalanche,-0.0855945004927972,70,71,70,0
+Jonas Rondbjerg,23.8,R,Vegas Golden Knights,0.1986960083334118,74,74,74,0
+CJ Suess,,L,San Jose Sharks,-0.0711579473037913,70,70,70,0
+Radim Zohorna,26.7,L,Calgary Flames,0.4791488267313014,77,79,77,0
+Brad Hunt,34.6,D,Colorado Avalanche,0.2966780662536621,75,78,75,0
+Cam York,22.2,D,Philadelphia Flyers,0.4040723825705278,76,78,76,0
+Joey Anderson,24.8,R,Chicago Blackhawks,0.5879983305931091,79,79,76,-3
+Matthew Phillips,24.7,C,Calgary Flames,0.0889157994385589,72,72,72,0
+Samuel Walker,23.8,C,Minnesota Wild,0.1026964849936335,72,73,72,0
+Rourke Chartier,26.7,C,Ottawa Senators,0.0517379583245335,71,72,71,0
+Kevin Gravel,31.1,D,Nashville Predators,-0.0232096258550882,70,74,71,1
+Roland McKeown,27.0,D,Nashville Predators,-0.1634364780459929,68,71,68,0
+Grigori Denisenko,22.7,L,Florida Panthers,0.1216910533844532,72,74,72,0
+Andreas Johnsson,28.3,L,San Jose Sharks,0.3610877394676208,76,79,74,-2
+Kevin Stenlund,26.5,C,Winnipeg Jets,0.2819096148014068,75,76,74,-1
+Brayden Pachal,23.4,D,Vegas Golden Knights,0.0114263366879777,71,72,71,0
+Jacob Lucchini,,C,Ottawa Senators,0.1223334593642141,72,73,72,0
+Jani Hakanpää,,D,Dallas Stars,0.0757201223615165,72,75,72,0
+Ben Harpur,28.2,D,New York Rangers,-0.1524848490953445,69,70,68,-1
+Jan Jenik,22.3,R,Arizona Coyotes,0.0125228829493894,71,74,71,0
+Jeremy Davies,26.1,D,Buffalo Sabres,-0.017026222106154,70,71,70,0
+Lane Pederson,25.6,C,Columbus Blue Jackets,-0.0058581576595224,71,71,71,0
+Jordan Spence,22.1,D,Los Angeles Kings,0.5149602215558128,78,79,78,0
+Josh Dunne,24.1,C,Columbus Blue Jackets,0.0256608305595956,71,72,71,0
+Riley Tufte,24.7,L,Dallas Stars,0.0557627468263948,72,72,72,0
+Thomas Novak,,C,Nashville Predators,0.203449010471798,74,74,74,0
+Anthony Richard,26.3,C,Montreal Canadiens,0.1219662498768115,72,72,72,0
+Justin Kirkland,26.4,C,Anaheim Ducks,-0.0170331857971203,70,71,70,0
+Isaak Phillips,21.4,D,Chicago Blackhawks,-0.3660955688666265,66,69,66,0
+Dillon Heatherington,27.7,D,Ottawa Senators,0.1830363240611607,73,74,73,0
+Nikita Okhotiuk,,D,New Jersey Devils,0.1555710877937576,73,74,73,0
+Robby Fabbri,27.1,C,Detroit Red Wings,0.3330478072166443,75,78,75,0
+Darren Raddysh,27.1,D,Tampa Bay Lightning,0.1287351077448587,73,74,73,0
+Aatu Raty,20.3,C,Vancouver Canucks,0.1423113233178997,73,75,73,0
+Parker Wotherspoon,25.4,D,New York Islanders,0.2943436474690944,75,77,75,0
+Pavel Dorofeyev,22.4,L,Vegas Golden Knights,0.4070341487872675,76,77,76,0
+Fredrik Olofsson,26.8,L,Dallas Stars,0.2748481073803993,75,75,75,0
+Michael Carcone,26.7,L,Arizona Coyotes,0.1704219120079452,73,73,73,0
+Tyce Thompson,23.5,R,New Jersey Devils,-0.0730083910889302,70,71,70,0
+Justin Barron,21.4,D,Montreal Canadiens,0.0042484861493791,71,71,71,0
+Mark Friedman,27.3,D,Pittsburgh Penguins,0.3234584085216768,75,77,75,0
+Anton Levtchi,27.1,L,Florida Panthers,-0.1051959042031988,69,71,69,0
+Travis Dermott,26.1,D,Vancouver Canucks,0.3001286685466766,75,78,74,-1
+Ty Smith,22.8,D,Pittsburgh Penguins,0.1982602179050445,74,75,76,2
+Sheldon Rempal,27.4,R,Vegas Golden Knights,-0.1624565807184951,68,70,68,0
+Kristian Reichel,24.6,C,Winnipeg Jets,0.2098674444935167,74,74,74,0
+Darren Helm,36.2,C,Colorado Avalanche,0.128193661570549,73,76,72,-1
+Byron Froese,32.0,C,Vegas Golden Knights,0.3779725432395935,76,76,75,-1
+Kaedan Korczak,22.0,D,Vegas Golden Knights,0.2775316154557009,75,76,75,0
+Max Pacioretty,34.2,L,Carolina Hurricanes,1.0697520971298218,86,87,86,0
+Brett Seney,27.0,L,Chicago Blackhawks,0.0247535787896279,71,72,71,0
+Steven Santini,27.9,D,St Louis Blues,0.5968461632728577,79,79,72,-7
+Nicklas Backstrom,35.3,C,Washington Capitals,0.5735333561897278,79,85,77,-2
+Tom Wilson,29.0,R,Washington Capitals,0.4972677230834961,78,80,76,-2
+Chris Wagner,31.6,R,Boston Bruins,0.1232884675264358,72,74,71,-1
+Walker Duehr,25.3,R,Calgary Flames,0.2855957076548821,75,75,75,0
+Bobby McMann,26.8,C,Toronto Maple Leafs,0.0307175557622607,71,72,71,0
+Vincent Desharnais,26.8,D,Edmonton Oilers,0.3741755102328834,76,77,76,0
+Jesse Ylonen,23.5,R,Montreal Canadiens,0.0247429036747369,71,73,71,0
+Joona Koppanen,24.9,L,Boston Bruins,0.0943614566789566,72,72,72,0
+Nolan Foote,22.3,L,New Jersey Devils,0.3898029000348089,76,77,76,0
+Jonathan Gruden,22.7,C,Pittsburgh Penguins,0.0047720511521319,71,71,71,0
+Rafael Harvey-Pinard,24.2,L,Montreal Canadiens,0.3503555573447496,76,77,76,0
+Dennis Cholowski,24.9,D,New York Islanders,0.0473982989788055,71,71,70,-1
+William Dufour,21.0,R,New York Islanders,-0.1057757349001645,69,71,69,0
+Jakob Pelletier,22.0,L,Calgary Flames,0.2381207649571856,74,76,74,0
+Alex Belzile,31.6,R,Montreal Canadiens,0.2354777333918416,74,75,74,0
+John Hayden,28.1,C,Seattle Kraken,0.0503756031394004,71,73,71,0
+Alex Turcotte,21.9,C,Los Angeles Kings,0.0186756992734313,71,71,71,0
+Samuel Bolduc,22.3,D,New York Islanders,0.2954925521433311,75,76,75,0
+Milos Kelemen,23.7,L,Arizona Coyotes,-0.2047881942060617,68,71,68,0
+Luke Philp,27.4,C,Chicago Blackhawks,-0.1318232036148632,69,71,69,0
+Ridly Greig,20.6,C,Ottawa Senators,0.262251414498683,74,78,74,0
+Will Cuylle,21.0,L,New York Rangers,-0.0220187653181411,70,71,70,0
+Phillip Di Giuseppe,29.5,L,Vancouver Canucks,0.1625918000936508,73,74,73,0
+Marc McLaughlin,23.5,C,Boston Bruins,-0.0064726696854176,71,73,71,0
+Owen Beck,19.0,C,Montreal Canadiens,-0.1362925643979143,69,71,69,0
+Jean-Sebastien Dea,29.1,C,Arizona Coyotes,0.1801243325742407,73,75,73,0
+Marian Studenic,24.3,L,Dallas Stars,0.1359906251080224,73,73,73,0
+Alex Steeves,23.3,C,Toronto Maple Leafs,-0.0516876660136971,70,71,70,0
+Marián Studeni,,L,Dallas Stars,-0.0382141451515088,70,71,70,0
+Victor Soderstrom,22.1,D,Arizona Coyotes,-0.1828614300116322,68,72,68,0
+Philip Tomasino,21.7,C,Nashville Predators,0.5246604084968567,78,81,77,-1
+Otto Koivula,24.5,L,New York Islanders,0.0843553476183028,72,72,72,0
+Cole Guttman,23.9,C,Chicago Blackhawks,0.1815856884292558,73,74,73,0
+Dylan McIlrath,30.9,D,Washington Capitals,-0.1420808825002859,69,72,69,0
+Andy Andreoff,31.8,C,New York Islanders,-0.1280737072229385,69,71,68,-1
+Fredrik Karlstrom,25.2,C,Dallas Stars,0.30010997317528,75,75,75,0
+Corey Schueneman,27.5,D,Montreal Canadiens,-0.2692283436386976,67,70,67,0
+Christian Wolanin,28.0,D,Vancouver Canucks,0.4244268834590912,77,77,74,-3
+Matthew Highmore,27.0,C,St Louis Blues,0.1803967654705047,73,74,73,0
+Arnaud Durandeau,24.1,L,New York Islanders,0.019235035668989,71,71,71,0
+Marco Scandella,33.1,D,St Louis Blues,-0.0329531356692314,70,74,69,-1
+Dakota Mermis,29.2,D,Minnesota Wild,0.3195590226380628,75,76,75,0
+Jesper Froden,28.5,R,Seattle Kraken,0.3718384572331713,76,76,76,0
+Anthony Duclair,27.6,L,Florida Panthers,0.7780175805091858,82,83,80,-2
+Elliot Desnoyers,21.1,L,Philadelphia Flyers,-0.153908964782947,69,71,69,0
+David Gust,,R,Chicago Blackhawks,-0.0108816788515474,71,71,71,0
+Billy Sweezey,27.1,D,Columbus Blue Jackets,0.016947658108696,71,71,71,0
+Luke Evangelista,21.1,R,Nashville Predators,0.5609819464915524,79,80,79,0
+Vladislav Kolyachonok,21.8,D,Arizona Coyotes,-0.1497283961500143,69,70,69,0
+John Leonard,24.6,L,Nashville Predators,0.1091211737417102,72,74,72,0
+Michael Kesselring,23.2,D,Arizona Coyotes,0.010925486513139,71,71,71,0
+Alex Chiasson,32.5,R,Detroit Red Wings,0.373616099357605,76,76,78,2
+William Eklund,20.4,L,San Jose Sharks,-0.0119620947937748,71,73,71,0
+Gabriel Carlsson,26.2,D,Washington Capitals,0.0622445109661144,72,73,72,0
+Vincent Iorio,20.3,D,Washington Capitals,-0.2648292242248908,67,71,67,0
+Frederic Allard,25.2,D,Montreal Canadiens,0.0249212917637858,71,71,71,0
+Nikolai Knyzhov,25.0,D,San Jose Sharks,-0.2726014016871942,67,71,67,0
+Alex Nylander,25.1,L,Pittsburgh Penguins,0.3708434744867848,76,76,76,0
+Derrick Pouliot,29.2,D,San Jose Sharks,0.3171361982822418,75,75,73,-2
+Bokondji Imama,26.6,L,Arizona Coyotes,-0.2417152587080956,67,69,67,0
+Tyson Foerster,21.2,R,Philadelphia Flyers,0.4767774481273131,77,79,77,0
+Egor Afanasyev,,L,Nashville Predators,-0.3783289268151222,65,69,65,0
+Mike Matheson,,D,Montreal Canadiens,-0.2081016484620359,68,69,68,0
+Nicholas Paul,,L,Tampa Bay Lightning,0.0672796632897593,72,72,72,0
+Mike Hardman,,L,Chicago Blackhawks,-0.031445110536366,70,71,70,0
+Simon Edvinsson,,D,Detroit Red Wings,0.0825848073480368,72,72,72,0
+Wyatt Kaiser,,D,Chicago Blackhawks,-0.0752341914548139,70,71,70,0
+Taylor Fedun,,D,Pittsburgh Penguins,0.5571900606155396,79,79,79,0
+Andrew Agozzino,,L,San Jose Sharks,0.376494123899846,76,76,76,0
+Nikita Nesterenko,,C,Anaheim Ducks,-0.024399716220057,70,71,70,0
