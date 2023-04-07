@@ -3,13 +3,23 @@ import dash_bootstrap_components as dbc
 
 navbar = dbc.NavbarSimple(
     children=[
-        dbc.NavItem(dbc.NavLink("2022-23 Ratings", href="/ratings")),
-        dbc.NavItem(dbc.NavLink("Daily Projections", href="/projections")),
-        dbc.NavItem(dbc.NavLink("Career Comparison", href="/compare")),
-        dbc.NavItem(dbc.NavLink("About", href="google.com")),
+        dbc.Nav(
+            children=[
+                dbc.NavItem(dbc.NavLink("2022-23 Ratings", href="/ratings", active='exact')),
+                dbc.NavItem(dbc.NavLink("Daily Projections", href="/projections", active='exact')),
+                dbc.NavItem(dbc.NavLink("Career Comparison", href="/compare", active='exact')),
+                dbc.NavItem(dbc.NavLink("About", href="google.com", active='exact')),
+            ],
+            pills=True, 
+
+
+        )
+
     ],
     brand="NHL Darko",
-    brand_href="/",
-    color="#1B1B1B",
+    color="#0b1016",
     dark=True,
+    style={
+        "color": "#b48d22"
+    }
 )

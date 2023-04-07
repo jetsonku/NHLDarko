@@ -8,7 +8,7 @@ def get_figure(players, time_type='Career Game'):
     for player in players:
         df_string = player.replace(" " , '_')
         df = pd.read_csv('projections/20222023/' + df_string + '.csv')
-        fig.add_trace(go.Scatter(x=df[time_type], y=df['XGB'], mode='markers', opacity=0.075, marker=dict(color=colors[i] + ', 1)')))
+        fig.add_trace(go.Scatter(x=df[time_type], y=df['XGB'], mode='markers', opacity=0.175, marker=dict(color=colors[i] + ', 1)')))
         fig.add_trace(go.Scatter(x=df[time_type], y=df['XGB_Lowess'], name=player, mode='lines', marker=dict(color=colors[i] + ', 1)'))) # fill to trace0 y
         i += 1
     fig.update_layout(autosize=False, width=1100 , height=700)

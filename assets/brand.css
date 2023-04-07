@@ -1,0 +1,23 @@
+body {
+    background-color: #1f242a;
+    color: #b48d22;
+
+  }
+
+a.nav-link {
+    color: #b48d22;
+  }
+
+a.navbar-brand {
+    color: #b48d22;
+  }
+
+  .nav-pills .nav-link:hover {
+    color: #b48d22;
+    background-color: #1f242a;
+  }
+  
+  .nav-pills .nav-link.active {
+    color: #b48d22;
+    background-color: #1f242a;
+  }
