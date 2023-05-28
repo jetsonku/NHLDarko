@@ -9,7 +9,6 @@ dash-html-components==2.0.0
 dash-table==5.0.0
 dbus-python==1.2.18
 distro==1.7.0
-distro-info===1.1build1
 Flask==2.2.3
 gunicorn==20.1.0
 httplib2==0.20.2
