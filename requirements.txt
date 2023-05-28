@@ -5,24 +5,6 @@ backcall==0.2.0
 beautifulsoup4==4.12.0
 blinker==1.6.2
 bs4==0.0.1
-<<<<<<< HEAD
-certifi==2019.11.28
-cffi==1.15.0
-chardet==3.0.4
-click==8.0.3
-cloud-init==21.2
-colorama==0.4.3
-colorlover==0.3.0
-command-not-found==0.3
-configobj==5.0.6
-constantly==15.1.0
-convert==0.1.2
-cryptography==2.8
-cupshelpers==1.0
-cycler==0.10.0
-dash==2.6.0
-dash-auth==1.3.2
-=======
 certifi==2022.12.7
 cfgv==3.3.1
 charset-normalizer==3.1.0
@@ -32,47 +14,12 @@ comm==0.1.2
 contourpy==1.0.7
 cycler==0.11.0
 dash==2.9.3
->>>>>>> c095cf32723daf06af82d94a2579ad33e664a67d
 dash-bootstrap-components==1.4.1
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-iconify==0.1.2
 dash-mantine-components==0.10.2
 dash-table==5.0.0
-<<<<<<< HEAD
-DateTime==5.1
-dbus-python==1.2.16
-debugpy==1.5.1
-decorator==5.1.1
-defer==1.0.6
-defusedxml==0.7.1
-distlib==0.3.0
-distro==1.4.0
-distro-info==0.23ubuntu1
-Django==4.0.6
-entrypoints==0.3
-exceptiongroup==1.1.0
-executing==0.8.2
-filelock==3.0.12
-Flask==2.1.3
-Flask-Compress==1.12
-Flask-SeaSurf==1.1.1
-greenlet==1.1.2
-gunicorn==20.0.4
-hockey-scraper==1.38.2
-html5lib==1.0.1
-httplib2==0.14.0
-hyperlink==19.0.0
-idna==2.8
-importlib-metadata==4.12.0
-incremental==16.10.1
-iniconfig==1.1.1
-ipykernel==6.7.0
-ipython==8.0.1
-ipython-genutils==0.2.0
-ipython-sql==0.4.0
-ipywidgets==7.6.5
-=======
 dash-tools==1.11.1
 debugpy==1.6.6
 decorator==5.1.1
@@ -89,7 +36,6 @@ idna==3.4
 iniconfig==2.0.0
 ipykernel==6.21.3
 ipython==8.11.0
->>>>>>> c095cf32723daf06af82d94a2579ad33e664a67d
 itsdangerous==2.1.2
 jedi==0.18.2
 Jinja2==3.1.2
@@ -111,17 +57,10 @@ pandas==1.5.3
 parso==0.8.3
 patsy==0.5.3
 pickleshare==0.7.5
-<<<<<<< HEAD
-Pillow==8.3.2
-pip==20.0.2
-platformdirs==2.4.1
-plotly==5.6.0
-=======
 Pillow==9.4.0
 pipreqs==0.4.11
 platformdirs==3.1.1
 plotly==5.13.1
->>>>>>> c095cf32723daf06af82d94a2579ad33e664a67d
 pluggy==1.0.0
 pre-commit==2.16.0
 prompt-toolkit==3.0.38
@@ -133,39 +72,6 @@ pyparsing==3.0.9
 pyrsistent==0.19.3
 pytest==6.2.5
 python-dateutil==2.8.2
-<<<<<<< HEAD
-python-debian==0.1.36ubuntu1
-pytz==2021.1
-PyYAML==5.3.1
-pyzmq==22.3.0
-qtconsole==5.2.2
-QtPy==2.0.0
-requests==2.22.0
-requests-unixsocket==0.2.0
-retrying==1.3.3
-ruamel.yaml==0.17.21
-ruamel.yaml.clib==0.2.7
-scikit-learn==1.0.2
-scipy==1.7.1
-seaborn==0.11.2
-SecretStorage==2.3.1
-Send2Trash==1.8.0
-service-identity==18.1.0
-setuptools==45.2.0
-simplejson==3.16.0
-six==1.14.0
-sklearn==0.0
-sos==4.1
-soupsieve==2.3.1
-SQLAlchemy==1.4.31
-sqlparse==0.4.2
-ssh-import-id==5.10
-stack-data==0.1.4
-systemd-python==234
-tenacity==8.0.1
-terminado==0.12.1
-testpath==0.5.0
-=======
 pytz==2022.7.1
 PyYAML==6.0
 pyzmq==25.0.1
@@ -179,32 +85,10 @@ soupsieve==2.4
 stack-data==0.6.2
 tenacity==8.2.2
 termcolor==1.1.0
->>>>>>> c095cf32723daf06af82d94a2579ad33e664a67d
 threadpoolctl==3.1.0
 toml==0.10.2
 tornado==6.2
 tqdm==4.65.0
-<<<<<<< HEAD
-traitlets==5.1.1
-Twisted==18.9.0
-typing-extensions==4.0.1
-ua-parser==0.15.0
-ubuntu-advantage-tools==27.2
-ufw==0.36
-unattended-upgrades==0.1
-Unidecode==1.3.6
-urllib3==1.25.8
-virtualenv==20.0.17
-wadllib==1.3.3
-wcwidth==0.2.5
-webencodings==0.5.1
-Werkzeug==2.1.2
-wheel==0.34.2
-widgetsnbextension==3.5.2
-xgboost==1.7.5
-zipp==1.0.0
-zope.interface==4.7.1
-=======
 traitlets==5.9.0
 Unidecode==1.3.6
 urllib3==1.26.15
@@ -219,4 +103,3 @@ packaging==21.0
 pexpect>4.3
 MarkupSafe>=2.0
 ptyprocess>=0.5
->>>>>>> c095cf32723daf06af82d94a2579ad33e664a67d
