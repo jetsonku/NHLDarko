@@ -9,18 +9,11 @@ def footer():
                 html.Hr(),
                 dcc.Markdown(
                     """
-                **Okama-Dash** open source free project. *MIT License*  
+                Data courtesy of [NaturalStatTrick](https://www.naturalstattrick.com/).
                 """
-                ),
-                html.P(
-                    [
-                        html.Img(src=dash.get_asset_url("GitHub-Mark-32px.png")),
-                        html.Span("   "),
-                        html.A("GitHub Repository", href="https://github.com/mbk-dev/okama-dash", target="_blank"),
-                    ]
-                ),
+                )
             ],
             style={"text-align": "center"},
-            className="p-3",
+            className="p-2",
         ),
     )
