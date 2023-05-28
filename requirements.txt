@@ -17,7 +17,6 @@ certifi==2019.11.28
 cffi==1.15.0
 chardet==3.0.4
 click==8.0.3
-cloud-init==21.2
 colorama==0.4.3
 colorlover==0.3.0
 command-not-found==0.3
