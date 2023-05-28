@@ -15,7 +15,7 @@ def get_figure(players, time_type='Career Game'):
                                                                     name=player, mode='markers', opacity=0.5, marker=dict(color=colors[i] + ', 1)')))
    #     fig.add_trace(go.Scatter(x=df[time_type], y=df['XGB_Lowess'], name=player, mode='lines', opacity=0.3, marker=dict(color=colors[i] + ', 1)'))) # fill to trace0 y
         i += 1
-    fig.update_layout(autosize=False, width=1100 , height=700, paper_bgcolor="#2B3036", plot_bgcolor="#2B3036", font={'color':'#b48d22'}, hovermode="closest")
+    fig.update_layout(paper_bgcolor="#2B3036", plot_bgcolor="#2B3036", font={'color':'#b48d22'}, hovermode="closest")
     fig.update_xaxes(title=time_type, linecolor='#b48d22')
     fig.update_yaxes(title='GameScore Rating', linecolor='#b48d22')
     fig.update_layout(    hoverlabel=dict(

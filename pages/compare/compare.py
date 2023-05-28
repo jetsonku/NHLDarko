@@ -63,7 +63,7 @@ def layout():
                             html.Label(['Similar Players:'], style={'font-weight': 'bold'}),
                             html.Div(children=[dbc.Table(table)], id='table_container')], 
                             width=dict({'size':3, 'offset':1}), ),
-                    dbc.Col([html.Div(dcc.Graph(figure=fig, id='graph'), style = {'display': 'inline-block', 'width': '1%'})], width=dict({'size':7, 'offset':1}), ),
+                    dbc.Col([html.Div(dcc.Graph(figure=fig, id='graph'), style = {'display': 'inline-block', 'width': '100%','height': '100%'})], width=dict({'size':7}), align="center",),
                 ]
             ),
         ], style= {'width': '98%', 'display': 'inline-block'}
