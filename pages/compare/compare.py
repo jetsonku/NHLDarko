@@ -5,12 +5,14 @@ from dash import callback, html, dcc
 from dash.dependencies import Input, Output, State
 import dash_bootstrap_components as dbc
 import plotly.graph_objs as go
+import sys
 
 from pages.compare.src.get_figure import get_figure
 
 warnings.simplefilter(action="ignore", category=FutureWarning)
 fig = get_figure(['A.J. Greer'])
 print(pd.read_csv('cleaned/master_skaters.csv').head(10))
+sys.stdout.flush()
 players = pd.read_csv('cleaned/master_skaters.csv')['Player'].unique()
 
 players.sort()
