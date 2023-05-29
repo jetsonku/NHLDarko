@@ -12,9 +12,8 @@ from pages.compare.src.get_figure import get_figure
 warnings.simplefilter(action="ignore", category=FutureWarning)
 fig = get_figure(['A.J. Greer'])
 
-#players = pd.read_csv('cleaned/master_skaters.csv')['Player'].unique()
-players = ['Matthew Tkachuk', 'Connor McDavid', 'Roope Hintz', 'Jack Hughes']
-players.sort()
+players = pd.read_csv('cleaned/master_skaters.csv')
+players = players.columns
 dash.register_page(
     __name__,
     path="/compare",
