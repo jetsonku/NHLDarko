@@ -10,7 +10,9 @@ from pages.compare.src.get_figure import get_figure
 
 warnings.simplefilter(action="ignore", category=FutureWarning)
 fig = get_figure(['A.J. Greer'])
+print(pd.read_csv('cleaned/master_skaters.csv').head(10))
 players = pd.read_csv('cleaned/master_skaters.csv')['Player'].unique()
+
 players.sort()
 dash.register_page(
     __name__,
