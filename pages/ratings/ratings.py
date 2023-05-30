@@ -94,7 +94,7 @@ datatable = dash_table.DataTable(
         'font-family': 'Work Sans',
          'textAlign': 'center'
     },   
-    css=[{"selector":"p", "rule":"margin: 0; text-align: left"}, {"selector":".dash-spreadsheet tr", "rule":"height: 40px;"}],
+    css=[{"selector":"p", "rule":"margin: 0; text-align: center"}, {"selector":".dash-spreadsheet tr", "rule":"height: 40px;"}],
     page_action="native",
     page_current= 0,
     page_size= 20,
