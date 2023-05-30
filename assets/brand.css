@@ -25,9 +25,9 @@ a.navbar-brand {
 table#similarity-table td:nth-of-type(1) {
   width: 20px;
 }
-table#review-final-analysis-table td:nth-of-type(2) {
+table#similarity-table td:nth-of-type(2) {
   width: 120px;
 }
-table#review-final-analysis-table td:nth-of-type(2) {
+table#similarity-table td:nth-of-type(3) {
   width: 100px;
 }
